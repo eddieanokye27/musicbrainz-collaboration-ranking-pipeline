@@ -1,0 +1,931 @@
+{
+  "artists": [
+    {
+      "name": "Bruno Mars",
+      "monthly_listeners_est": 130000000,
+      "peak_monthly_listeners_est": 149500000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Funk"
+      ]
+    },
+    {
+      "name": "Bad Bunny",
+      "monthly_listeners_est": 128900000,
+      "peak_monthly_listeners_est": 148235000,
+      "country_of_origin": "Puerto Rico",
+      "genre": [
+        "Reggaeton",
+        "Latin Trap"
+      ]
+    },
+    {
+      "name": "The Weeknd",
+      "monthly_listeners_est": 127800000,
+      "peak_monthly_listeners_est": 146970000,
+      "country_of_origin": "Canada",
+      "genre": [
+        "R&B",
+        "Pop"
+      ]
+    },
+    {
+      "name": "Rihanna",
+      "monthly_listeners_est": 126700000,
+      "peak_monthly_listeners_est": 145705000,
+      "country_of_origin": "Barbados",
+      "genre": [
+        "Pop",
+        "R&B"
+      ]
+    },
+    {
+      "name": "Taylor Swift",
+      "monthly_listeners_est": 125600000,
+      "peak_monthly_listeners_est": 144440000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "Country"
+      ]
+    },
+    {
+      "name": "Justin Bieber",
+      "monthly_listeners_est": 124500000,
+      "peak_monthly_listeners_est": 143175000,
+      "country_of_origin": "Canada",
+      "genre": [
+        "Pop",
+        "R&B"
+      ]
+    },
+    {
+      "name": "Lady Gaga",
+      "monthly_listeners_est": 123400000,
+      "peak_monthly_listeners_est": 141910000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "Dance"
+      ]
+    },
+    {
+      "name": "Coldplay",
+      "monthly_listeners_est": 122300000,
+      "peak_monthly_listeners_est": 140645000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "name": "Drake",
+      "monthly_listeners_est": 121200000,
+      "peak_monthly_listeners_est": 139380000,
+      "country_of_origin": "Canada",
+      "genre": [
+        "Hip-Hop",
+        "R&B"
+      ]
+    },
+    {
+      "name": "Billie Eilish",
+      "monthly_listeners_est": 120100000,
+      "peak_monthly_listeners_est": 138115000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "Alternative"
+      ]
+    },
+    {
+      "name": "Ed Sheeran",
+      "monthly_listeners_est": 119000000,
+      "peak_monthly_listeners_est": 136850000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Ariana Grande",
+      "monthly_listeners_est": 117900000,
+      "peak_monthly_listeners_est": 135585000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "R&B"
+      ]
+    },
+    {
+      "name": "J Balvin",
+      "monthly_listeners_est": 116800000,
+      "peak_monthly_listeners_est": 134320000,
+      "country_of_origin": "Colombia",
+      "genre": [
+        "Reggaeton"
+      ]
+    },
+    {
+      "name": "David Guetta",
+      "monthly_listeners_est": 115700000,
+      "peak_monthly_listeners_est": 133054999,
+      "country_of_origin": "France",
+      "genre": [
+        "EDM"
+      ]
+    },
+    {
+      "name": "Shakira",
+      "monthly_listeners_est": 114600000,
+      "peak_monthly_listeners_est": 131789999,
+      "country_of_origin": "Colombia",
+      "genre": [
+        "Latin Pop"
+      ]
+    },
+    {
+      "name": "Kendrick Lamar",
+      "monthly_listeners_est": 113500000,
+      "peak_monthly_listeners_est": 130524999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Maroon 5",
+      "monthly_listeners_est": 112400000,
+      "peak_monthly_listeners_est": 129259999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop Rock"
+      ]
+    },
+    {
+      "name": "Eminem",
+      "monthly_listeners_est": 111300000,
+      "peak_monthly_listeners_est": 127994999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Calvin Harris",
+      "monthly_listeners_est": 110200000,
+      "peak_monthly_listeners_est": 126729999,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "EDM"
+      ]
+    },
+    {
+      "name": "SZA",
+      "monthly_listeners_est": 109100000,
+      "peak_monthly_listeners_est": 125464999,
+      "country_of_origin": "United States",
+      "genre": [
+        "R&B"
+      ]
+    },
+    {
+      "name": "Kanye West",
+      "monthly_listeners_est": 108000000,
+      "peak_monthly_listeners_est": 124199999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Pitbull",
+      "monthly_listeners_est": 106900000,
+      "peak_monthly_listeners_est": 122934999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Latin Pop",
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Dua Lipa",
+      "monthly_listeners_est": 105800000,
+      "peak_monthly_listeners_est": 121669999,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop",
+        "Dance"
+      ]
+    },
+    {
+      "name": "Lana Del Rey",
+      "monthly_listeners_est": 104700000,
+      "peak_monthly_listeners_est": 120404999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Alternative Pop"
+      ]
+    },
+    {
+      "name": "Zara Larsson",
+      "monthly_listeners_est": 103600000,
+      "peak_monthly_listeners_est": 119139999,
+      "country_of_origin": "Sweden",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Daddy Yankee",
+      "monthly_listeners_est": 102500000,
+      "peak_monthly_listeners_est": 117874999,
+      "country_of_origin": "Puerto Rico",
+      "genre": [
+        "Reggaeton"
+      ]
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "monthly_listeners_est": 101400000,
+      "peak_monthly_listeners_est": 116609999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Harry Styles",
+      "monthly_listeners_est": 100300000,
+      "peak_monthly_listeners_est": 115344999,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Katy Perry",
+      "monthly_listeners_est": 99200000,
+      "peak_monthly_listeners_est": 114079999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Sia",
+      "monthly_listeners_est": 98100000,
+      "peak_monthly_listeners_est": 112814999,
+      "country_of_origin": "Australia",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Post Malone",
+      "monthly_listeners_est": 97000000,
+      "peak_monthly_listeners_est": 111549999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop",
+        "Pop"
+      ]
+    },
+    {
+      "name": "Michael Jackson",
+      "monthly_listeners_est": 95900000,
+      "peak_monthly_listeners_est": 110284999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "R&B"
+      ]
+    },
+    {
+      "name": "Olivia Dean",
+      "monthly_listeners_est": 94800000,
+      "peak_monthly_listeners_est": 109019999,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Soul",
+        "Pop"
+      ]
+    },
+    {
+      "name": "sombr",
+      "monthly_listeners_est": 93700000,
+      "peak_monthly_listeners_est": 107754999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Indie Pop"
+      ]
+    },
+    {
+      "name": "Travis Scott",
+      "monthly_listeners_est": 92600000,
+      "peak_monthly_listeners_est": 106489999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Chris Brown",
+      "monthly_listeners_est": 91500000,
+      "peak_monthly_listeners_est": 105224999,
+      "country_of_origin": "United States",
+      "genre": [
+        "R&B"
+      ]
+    },
+    {
+      "name": "Sean Paul",
+      "monthly_listeners_est": 90400000,
+      "peak_monthly_listeners_est": 103959999,
+      "country_of_origin": "Jamaica",
+      "genre": [
+        "Dancehall"
+      ]
+    },
+    {
+      "name": "Rauw Alejandro",
+      "monthly_listeners_est": 89300000,
+      "peak_monthly_listeners_est": 102694999,
+      "country_of_origin": "Puerto Rico",
+      "genre": [
+        "Reggaeton"
+      ]
+    },
+    {
+      "name": "Adele",
+      "monthly_listeners_est": 88200000,
+      "peak_monthly_listeners_est": 101429999,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop",
+        "Soul"
+      ]
+    },
+    {
+      "name": "Black Eyed Peas",
+      "monthly_listeners_est": 87100000,
+      "peak_monthly_listeners_est": 100164999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Doja Cat",
+      "monthly_listeners_est": 86000000,
+      "peak_monthly_listeners_est": 98899999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "RAYE",
+      "monthly_listeners_est": 84900000,
+      "peak_monthly_listeners_est": 97634999,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop",
+        "R&B"
+      ]
+    },
+    {
+      "name": "Beyonc\u00e9",
+      "monthly_listeners_est": 83800000,
+      "peak_monthly_listeners_est": 96370000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "R&B"
+      ]
+    },
+    {
+      "name": "Arctic Monkeys",
+      "monthly_listeners_est": 82700000,
+      "peak_monthly_listeners_est": 95105000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Indie Rock"
+      ]
+    },
+    {
+      "name": "Future",
+      "monthly_listeners_est": 81600000,
+      "peak_monthly_listeners_est": 93840000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Linkin Park",
+      "monthly_listeners_est": 80500000,
+      "peak_monthly_listeners_est": 92575000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Alternative Rock"
+      ]
+    },
+    {
+      "name": "Miley Cyrus",
+      "monthly_listeners_est": 79400000,
+      "peak_monthly_listeners_est": 91310000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Imagine Dragons",
+      "monthly_listeners_est": 78300000,
+      "peak_monthly_listeners_est": 90045000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop Rock"
+      ]
+    },
+    {
+      "name": "Arijit Singh",
+      "monthly_listeners_est": 77200000,
+      "peak_monthly_listeners_est": 88780000,
+      "country_of_origin": "India",
+      "genre": [
+        "Bollywood",
+        "Pop"
+      ]
+    },
+    {
+      "name": "Alex Warren",
+      "monthly_listeners_est": 76100000,
+      "peak_monthly_listeners_est": 87515000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "KAROL G",
+      "monthly_listeners_est": 75000000,
+      "peak_monthly_listeners_est": 86250000,
+      "country_of_origin": "Colombia",
+      "genre": [
+        "Reggaeton"
+      ]
+    },
+    {
+      "name": "Ozuna",
+      "monthly_listeners_est": 73900000,
+      "peak_monthly_listeners_est": 84985000,
+      "country_of_origin": "Puerto Rico",
+      "genre": [
+        "Reggaeton"
+      ]
+    },
+    {
+      "name": "Shreya Ghoshal",
+      "monthly_listeners_est": 72800000,
+      "peak_monthly_listeners_est": 83720000,
+      "country_of_origin": "India",
+      "genre": [
+        "Bollywood"
+      ]
+    },
+    {
+      "name": "Sam Smith",
+      "monthly_listeners_est": 71700000,
+      "peak_monthly_listeners_est": 82455000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop",
+        "Soul"
+      ]
+    },
+    {
+      "name": "Queen",
+      "monthly_listeners_est": 70600000,
+      "peak_monthly_listeners_est": 81190000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Rock"
+      ]
+    },
+    {
+      "name": "Halsey",
+      "monthly_listeners_est": 69500000,
+      "peak_monthly_listeners_est": 79925000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Khalid",
+      "monthly_listeners_est": 68400000,
+      "peak_monthly_listeners_est": 78660000,
+      "country_of_origin": "United States",
+      "genre": [
+        "R&B"
+      ]
+    },
+    {
+      "name": "Djo",
+      "monthly_listeners_est": 67300000,
+      "peak_monthly_listeners_est": 77395000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Indie Rock"
+      ]
+    },
+    {
+      "name": "Fleetwood Mac",
+      "monthly_listeners_est": 66200000,
+      "peak_monthly_listeners_est": 76130000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Rock"
+      ]
+    },
+    {
+      "name": "Marshmello",
+      "monthly_listeners_est": 65100000,
+      "peak_monthly_listeners_est": 74865000,
+      "country_of_origin": "United States",
+      "genre": [
+        "EDM"
+      ]
+    },
+    {
+      "name": "Justin Timberlake",
+      "monthly_listeners_est": 64000000,
+      "peak_monthly_listeners_est": 73600000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop",
+        "R&B"
+      ]
+    },
+    {
+      "name": "DJ Snake",
+      "monthly_listeners_est": 62900000,
+      "peak_monthly_listeners_est": 72335000,
+      "country_of_origin": "France",
+      "genre": [
+        "EDM"
+      ]
+    },
+    {
+      "name": "The Chainsmokers",
+      "monthly_listeners_est": 61800000,
+      "peak_monthly_listeners_est": 71070000,
+      "country_of_origin": "United States",
+      "genre": [
+        "EDM",
+        "Pop"
+      ]
+    },
+    {
+      "name": "Tate McRae",
+      "monthly_listeners_est": 60700000,
+      "peak_monthly_listeners_est": 69805000,
+      "country_of_origin": "Canada",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Ellie Goulding",
+      "monthly_listeners_est": 59600000,
+      "peak_monthly_listeners_est": 68540000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Maluma",
+      "monthly_listeners_est": 58500000,
+      "peak_monthly_listeners_est": 67275000,
+      "country_of_origin": "Colombia",
+      "genre": [
+        "Reggaeton"
+      ]
+    },
+    {
+      "name": "Don Omar",
+      "monthly_listeners_est": 57400000,
+      "peak_monthly_listeners_est": 66009999,
+      "country_of_origin": "Puerto Rico",
+      "genre": [
+        "Reggaeton"
+      ]
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "monthly_listeners_est": 56300000,
+      "peak_monthly_listeners_est": 64744999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Pritam",
+      "monthly_listeners_est": 55200000,
+      "peak_monthly_listeners_est": 63479999,
+      "country_of_origin": "India",
+      "genre": [
+        "Bollywood"
+      ]
+    },
+    {
+      "name": "Lil Wayne",
+      "monthly_listeners_est": 54100000,
+      "peak_monthly_listeners_est": 62214999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "A.R. Rahman",
+      "monthly_listeners_est": 53000000,
+      "peak_monthly_listeners_est": 60949999,
+      "country_of_origin": "India",
+      "genre": [
+        "Film Score"
+      ]
+    },
+    {
+      "name": "Elton John",
+      "monthly_listeners_est": 51900000,
+      "peak_monthly_listeners_est": 59684999,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "name": "Don Toliver",
+      "monthly_listeners_est": 50800000,
+      "peak_monthly_listeners_est": 58419999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Britney Spears",
+      "monthly_listeners_est": 49700000,
+      "peak_monthly_listeners_est": 57154999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "The Neighbourhood",
+      "monthly_listeners_est": 48600000,
+      "peak_monthly_listeners_est": 55889999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Alternative"
+      ]
+    },
+    {
+      "name": "Usher",
+      "monthly_listeners_est": 47500000,
+      "peak_monthly_listeners_est": 54624999,
+      "country_of_origin": "United States",
+      "genre": [
+        "R&B"
+      ]
+    },
+    {
+      "name": "Charlie Puth",
+      "monthly_listeners_est": 46400000,
+      "peak_monthly_listeners_est": 53359999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Ne-Yo",
+      "monthly_listeners_est": 45300000,
+      "peak_monthly_listeners_est": 52094999,
+      "country_of_origin": "United States",
+      "genre": [
+        "R&B"
+      ]
+    },
+    {
+      "name": "Tame Impala",
+      "monthly_listeners_est": 44200000,
+      "peak_monthly_listeners_est": 50829999,
+      "country_of_origin": "Australia",
+      "genre": [
+        "Psychedelic Rock"
+      ]
+    },
+    {
+      "name": "Red Hot Chili Peppers",
+      "monthly_listeners_est": 43100000,
+      "peak_monthly_listeners_est": 49564999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Rock"
+      ]
+    },
+    {
+      "name": "Peso Pluma",
+      "monthly_listeners_est": 42000000,
+      "peak_monthly_listeners_est": 48299999,
+      "country_of_origin": "Mexico",
+      "genre": [
+        "Regional Mexican"
+      ]
+    },
+    {
+      "name": "OneRepublic",
+      "monthly_listeners_est": 40900000,
+      "peak_monthly_listeners_est": 47035000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop Rock"
+      ]
+    },
+    {
+      "name": "50 Cent",
+      "monthly_listeners_est": 39800000,
+      "peak_monthly_listeners_est": 45770000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Fuerza Regida",
+      "monthly_listeners_est": 38700000,
+      "peak_monthly_listeners_est": 44505000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Regional Mexican"
+      ]
+    },
+    {
+      "name": "Farruko",
+      "monthly_listeners_est": 37600000,
+      "peak_monthly_listeners_est": 43240000,
+      "country_of_origin": "Puerto Rico",
+      "genre": [
+        "Reggaeton"
+      ]
+    },
+    {
+      "name": "Anuel AA",
+      "monthly_listeners_est": 36500000,
+      "peak_monthly_listeners_est": 41975000,
+      "country_of_origin": "Puerto Rico",
+      "genre": [
+        "Latin Trap"
+      ]
+    },
+    {
+      "name": "Wiz Khalifa",
+      "monthly_listeners_est": 35400000,
+      "peak_monthly_listeners_est": 40710000,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "JENNIE",
+      "monthly_listeners_est": 34300000,
+      "peak_monthly_listeners_est": 39445000,
+      "country_of_origin": "South Korea",
+      "genre": [
+        "K\u2011Pop"
+      ]
+    },
+    {
+      "name": "Radiohead",
+      "monthly_listeners_est": 33200000,
+      "peak_monthly_listeners_est": 38180000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Alternative Rock"
+      ]
+    },
+    {
+      "name": "Nicki Minaj",
+      "monthly_listeners_est": 32100000,
+      "peak_monthly_listeners_est": 36915000,
+      "country_of_origin": "Trinidad and Tobago",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Shawn Mendes",
+      "monthly_listeners_est": 31000000,
+      "peak_monthly_listeners_est": 35650000,
+      "country_of_origin": "Canada",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "One Direction",
+      "monthly_listeners_est": 29900000,
+      "peak_monthly_listeners_est": 34385000,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Playboi Carti",
+      "monthly_listeners_est": 28800000,
+      "peak_monthly_listeners_est": 33119999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Benson Boone",
+      "monthly_listeners_est": 27700000,
+      "peak_monthly_listeners_est": 31854999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Camila Cabello",
+      "monthly_listeners_est": 26600000,
+      "peak_monthly_listeners_est": 30589999,
+      "country_of_origin": "Cuba",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "A$AP Rocky",
+      "monthly_listeners_est": 25500000,
+      "peak_monthly_listeners_est": 29324999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Madonna",
+      "monthly_listeners_est": 24400000,
+      "peak_monthly_listeners_est": 28059999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    },
+    {
+      "name": "Gorillaz",
+      "monthly_listeners_est": 23300000,
+      "peak_monthly_listeners_est": 26794999,
+      "country_of_origin": "United Kingdom",
+      "genre": [
+        "Alternative"
+      ]
+    },
+    {
+      "name": "Metro Boomin",
+      "monthly_listeners_est": 22200000,
+      "peak_monthly_listeners_est": 25529999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Hip-Hop"
+      ]
+    },
+    {
+      "name": "Kesha",
+      "monthly_listeners_est": 21100000,
+      "peak_monthly_listeners_est": 24264999,
+      "country_of_origin": "United States",
+      "genre": [
+        "Pop"
+      ]
+    }
+  ]
+}
