@@ -1,0 +1,3247 @@
+artist,num_collaborators,known_genres,dominant_collaborator_genre,dominant_collaborator_genre_count,top_5_collaborator_genres,has_metadata
+*NSYNC,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+070 Shake,16,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1), ('Pop', 1)]",False
+1.Cuz,1,,Pop,1,"[('Pop', 1)]",False
+100 gecs,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+2 Chainz,37,,Hip-Hop,7,"[('Hip-Hop', 7), ('R&B', 4), ('Pop', 3), ('Funk', 1)]",False
+2 Mello,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+2 Unlimited,19,,Pop,5,"[('Pop', 5), ('Pop Rock', 1), ('Alternative', 1), ('Hip-Hop', 1), ('Dance', 1)]",False
+2000 and One,1,,EDM,1,"[('EDM', 1)]",False
+21 Savage,20,,R&B,4,"[('R&B', 4), ('Hip-Hop', 4), ('Reggaeton', 2), ('Pop', 2), ('Latin Trap', 1)]",False
+24kGoldn,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Reggaeton', 1)]",False
+2Malle,7,,R&B,4,"[('R&B', 4), ('Pop', 3), ('Hip-Hop', 2), ('Funk', 1)]",False
+2Pac,36,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 4), ('Pop', 3), ('Funk', 1), ('Pop Rock', 1)]",False
+3LAU,3,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Country', 1), ('EDM', 1)]",False
+40 Cobras,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+40 Glocc,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+42 Dugg,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+4batz,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+5 Seconds of Summer,2,,EDM,1,"[('EDM', 1)]",False
+50 Cent,40,Hip-Hop,R&B,3,"[('R&B', 3), ('Hip-Hop', 3), ('Pop', 2), ('Alternative Rock', 1)]",True
+5ERIOUS,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+5th Ward Weebie,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+6Blocc,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+6LACK,7,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('EDM', 1)]",False
+6ix9ine,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+702,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+88‐Keys,3,,,0,[],False
+8Ball,10,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+8Ball & MJG,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+9th Wonder,7,,Hip-Hop,2,"[('Hip-Hop', 2), ('Pop', 1), ('Dance', 1), ('R&B', 1)]",False
+A Boogie Wit da Hoodie,14,,EDM,1,"[('EDM', 1), ('Pop Rock', 1), ('Pop', 1)]",False
+A Plus D,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+A Tribe Called Quest,3,,,0,[],False
+A$AP Rocky,27,Hip-Hop,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 3), ('Pop', 3), ('Alternative Pop', 1), ('Pop Rock', 1)]",True
+A. Rose Jackson,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+A.B. Quintanilla III,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+A.L.,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+A7S,2,,EDM,1,"[('EDM', 1)]",False
+ABBA,7,,Pop,2,"[('Pop', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1), ('Dance', 1)]",False
+ABRA,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+AC/DC,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('Hip-Hop', 1)]",False
+AIM,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+AJ,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+AJ Tracey,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+ALMA,28,,Pop,4,"[('Pop', 4), ('Dance', 2), ('Dancehall', 1)]",False
+ALTÈGO,2,,EDM,1,"[('EDM', 1)]",False
+ANF,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+ARTBAT,2,,EDM,1,"[('EDM', 1)]",False
+ASF,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+ATEEZ,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+AUDREY NUNA,5,,EDM,1,"[('EDM', 1)]",False
+AWOLNATION,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+AYYBO,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+AZ,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Aaliyah,5,,R&B,4,"[('R&B', 4), ('Pop', 3), ('Hip-Hop', 1)]",False
+Abel,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Abel Pintos,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Abraham Mateo,12,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Abstract Mindstate,1,,,0,[],False
+Ab‐Soul,20,,R&B,1,"[('R&B', 1), ('Hip-Hop', 1)]",False
+Ace Hood,14,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Action Bronson,8,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Active Melody,7,,Pop,2,"[('Pop', 2), ('R&B', 1), ('EDM', 1), ('Soul', 1), ('Latin Pop', 1)]",False
+Actual Proof,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Adam Cohen,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Adam Levine,9,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 1), ('Latin Pop', 1)]",False
+Adamski,6,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1)]",False
+Adassa,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Add2TheMC,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Adele,18,"Pop, Soul",Pop,7,"[('Pop', 7), ('R&B', 5), ('Hip-Hop', 2), ('Dance', 1), ('EDM', 1)]",True
+Adele Givens,2,,,0,[],False
+Adina Howard,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Africanism,5,,EDM,1,"[('EDM', 1)]",False
+Africanism All Stars,5,,EDM,1,"[('EDM', 1)]",False
+Afro Bro's,3,,EDM,1,"[('EDM', 1)]",False
+Afro Bros,7,,EDM,1,"[('EDM', 1), ('Reggaeton', 1)]",False
+Afrojack,55,,Pop,4,"[('Pop', 4), ('R&B', 4), ('Hip-Hop', 4), ('EDM', 2), ('Pop Rock', 2)]",False
+Agents of Time,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+AgusFortnite2008,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Latin Pop', 1)]",False
+Airwolf Paradise,2,,EDM,1,"[('EDM', 1)]",False
+Aitch,3,,Pop,1,"[('Pop', 1)]",False
+Akeem,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Akeen,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Akinyele,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Akira,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Akon,39,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 3), ('Pop', 3), ('Latin Pop', 1), ('Dance', 1)]",False
+Akron/Family,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Alan Walker,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('Pop', 1), ('EDM', 1)]",False
+Alanis Morissette,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Albe Back,3,,,0,[],False
+Albert Castillo,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+"Albert Hammond, Jr.",1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Alberto Stylee,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Aldae,2,,EDM,1,"[('EDM', 1)]",False
+Alejandro Fernández,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Alejandro Sanz,76,,Latin Pop,1,"[('Latin Pop', 1), ('Reggaeton', 1)]",False
+Aleks Syntek,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Alesha Dixon,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Alessia Cara,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Alesso,30,,Pop,5,"[('Pop', 5), ('R&B', 2), ('EDM', 2), ('Pop Rock', 2), ('Funk', 1)]",False
+Alex Chapman,1,,Pop,1,"[('Pop', 1)]",False
+Alex Gaudino,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Alex Guesta,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Alex Sensation,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Alexa,1,,Pop,1,"[('Pop', 1)]",False
+Alexandra Burke,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Alexio,19,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 2)]",False
+Alexis & Fido,7,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Alexis Jordan,28,,Pop,6,"[('Pop', 6), ('R&B', 4), ('Hip-Hop', 4), ('Funk', 1), ('Latin Pop', 1)]",False
+Ali,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Ali Payami,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Alicia Keys,37,,R&B,5,"[('R&B', 5), ('Pop', 5), ('Hip-Hop', 4), ('Pop Rock', 2), ('Latin Pop', 1)]",False
+Alicia Myers,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Alicia Villarreal,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Alison Krauss,5,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+All About She,1,,EDM,1,"[('EDM', 1)]",False
+Allan Kingdom,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Almighty,31,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1)]",False
+Aloe Blacc,14,,Hip-Hop,4,"[('Hip-Hop', 4), ('Pop', 3), ('R&B', 2), ('EDM', 1), ('Funk', 1)]",False
+Alonestar,5,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1)]",False
+Alori Joh,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Alpha P,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Alphaville,2,,EDM,1,"[('EDM', 1)]",False
+Alvaro,2,,EDM,1,"[('EDM', 1)]",False
+Amanda Reifer,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Amanda Wilson,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Amarion,7,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Amber Coffman,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Amber Mark,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Amenazzy,5,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Amerigo Gazaway,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Amil,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Amir,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Amira,3,,EDM,1,"[('EDM', 1)]",False
+Amira Eldine,3,,EDM,1,"[('EDM', 1)]",False
+Amy Winehouse,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Amél,3,,EDM,1,"[('EDM', 1)]",False
+Ana Bárbara,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Ana Gabriel,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Anakta,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Anastacia,3,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Anderson .Paak,9,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Andre Ossit,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Andrea Bocelli,7,,Pop,4,"[('Pop', 4), ('Dance', 2), ('R&B', 1)]",False
+Andrea Marino,3,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Andrea Martin,5,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Andreena Mill,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+André 3000,12,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 2)]",False
+Andy Nyman,5,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Angel Dust,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Angel Moon,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Angela McCluskey,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Angèle,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Anita Baker,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Anitta,12,,R&B,1,"[('R&B', 1), ('Pop', 1), ('Reggaeton', 1)]",False
+Anjuli Stars,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Anna Wise,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Annalisa,3,,EDM,1,"[('EDM', 1)]",False
+Anne‐Marie,31,,Pop,4,"[('Pop', 4), ('Pop Rock', 1), ('Alternative', 1), ('Dance', 1), ('Dancehall', 1)]",False
+Annie Lennox,4,,EDM,1,"[('EDM', 1)]",False
+Annie Mulz,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Anomy5,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Anonimus,5,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Ant Clemons,23,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Anthony Watts,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Antonia,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Antonio,1,,,0,[],False
+Antonio Carmona,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Antonio Orozco,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Anuel AA,32,Latin Trap,Reggaeton,6,"[('Reggaeton', 6), ('Latin Trap', 1), ('Latin Pop', 1), ('Pop Rock', 1), ('EDM', 1)]",True
+Ape Drums,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Aphex Twin,2,,,0,[],False
+Arash,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1), ('Reggaeton', 1)]",False
+Arbnis,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Arcade,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Arcane,5,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Archie,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Arcángel,35,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2)]",False
+Arcángel & De La Ghetto,19,,Reggaeton,6,"[('Reggaeton', 6), ('Latin Trap', 2)]",False
+Ariana Grande,150,"Pop, R&B",Pop,13,"[('Pop', 13), ('Hip-Hop', 5), ('R&B', 4), ('Dance', 2), ('Funk', 1)]",True
+Arianna,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Arijit Singh,17,"Bollywood, Pop",Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1)]",True
+Aristotle,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Armaan Malik,1,,Pop,1,"[('Pop', 1)]",False
+Armand van Helden,9,,EDM,1,"[('EDM', 1)]",False
+Armin van Buuren,2,,EDM,1,"[('EDM', 1)]",False
+Arrow Starr,3,,,0,[],False
+Arrowstar,2,,,0,[],False
+Artik & Asti,2,,EDM,1,"[('EDM', 1)]",False
+Arturo Sandoval,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Ash King,4,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Ash Riser,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Asher Roth,11,,R&B,3,"[('R&B', 3), ('Hip-Hop', 2), ('Pop', 1)]",False
+Ashtrobot,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Assassin,2,,,0,[],False
+Astoria,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Audio Bullys,2,,EDM,1,"[('EDM', 1)]",False
+Aura,2,,,0,[],False
+Austin Mahone,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Autechre,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ava Max,2,,EDM,1,"[('EDM', 1)]",False
+Aventura,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Avery Storm,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Avicii,22,,EDM,3,"[('EDM', 3), ('Pop', 3), ('Latin Pop', 1), ('Hip-Hop', 1), ('Pop Rock', 1)]",False
+Avril Lavigne,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Axwell,6,,EDM,1,"[('EDM', 1), ('Dancehall', 1), ('Pop', 1), ('Dance', 1)]",False
+Ayah Marar,1,,EDM,1,"[('EDM', 1)]",False
+Ayesha Erotica,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Aylen,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Ayra Starr,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('EDM', 1)]",False
+AzChike,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Azealia Banks,4,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Alternative Pop', 1), ('R&B', 1)]",False
+Azteck,5,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+A‐Roma,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+A‐Trak,10,,Hip-Hop,1,"[('Hip-Hop', 1), ('EDM', 1)]",False
+A‐WA,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+B Martin,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+B Praak,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+B.G.,13,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+B.o.B,33,,Pop,3,"[('Pop', 3), ('Hip-Hop', 3), ('R&B', 2), ('Latin Pop', 2), ('Funk', 1)]",False
+BAD CHILD,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+BEAM,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+BIA,8,,EDM,1,"[('EDM', 1), ('Reggaeton', 1), ('Pop', 1), ('R&B', 1)]",False
+BIGBANG,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+BJ,3,,,0,[],False
+BJ the Chicago Kid,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+BL3SS,4,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+BLACKPINK,3,,Pop,2,"[('Pop', 2), ('Dance', 2)]",False
+BLEU,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Pop Rock', 1)]",False
+BO,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+BOB,4,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+BROCKHAMPTON,3,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+BTS,2,,Pop,1,"[('Pop', 1), ('Pop Rock', 1), ('Alternative', 1)]",False
+BURNS,2,,EDM,1,"[('EDM', 1)]",False
+Baauer,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Babeo Baggins,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Baby Bash,10,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Baby Keem,15,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Baby Rasta,6,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Baby Rasta & Gringo,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+BabyTron,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Babylon,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Backstreet Boys,7,,Pop,4,"[('Pop', 4), ('Latin Pop', 1), ('Hip-Hop', 1), ('Dance', 1)]",False
+Bad Bunny,161,"Reggaeton, Latin Trap",Reggaeton,8,"[('Reggaeton', 8), ('Hip-Hop', 4), ('Pop', 3), ('R&B', 2), ('Dance', 2)]",True
+Bad Gyal,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Bad Lucc,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bad Meets Evil,4,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1), ('Pop', 1), ('Funk', 1)]",False
+Badshah,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Bakar,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Balance,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ball Greezy,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bang,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bantu,3,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Barack Obama,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Barbara Tucker,1,,EDM,1,"[('EDM', 1)]",False
+Barbosa,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Barbra Streisand,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Barrie‐James,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Barry Gibb,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Bash,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bashy,7,,Pop,2,"[('Pop', 2), ('R&B', 1), ('EDM', 1)]",False
+Bass III Euro,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Basshunter,1,,EDM,1,"[('EDM', 1)]",False
+Bastille,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Basto,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Be No Rain,9,,EDM,1,"[('EDM', 1)]",False
+Beanie Sigel,9,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Beans,5,,,0,[],False
+Beardyman,2,,EDM,1,"[('EDM', 1)]",False
+Beastie Boys,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Beat Connection,4,,,0,[],False
+Beatriz Luengo,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Beats International,1,,Pop,1,"[('Pop', 1)]",False
+Bebe,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Bebe Rexha,27,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 3), ('R&B', 1), ('Latin Pop', 1), ('Reggaeton', 1)]",False
+Beck,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Becky G,8,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1), ('EDM', 1), ('Dancehall', 1), ('Latin Pop', 1)]",False
+Becky Hill,13,,Pop,2,"[('Pop', 2), ('EDM', 1), ('R&B', 1)]",False
+Bee Gees,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Beenie Man,8,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Bekuh BOOM,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Belinda,19,,Latin Pop,2,"[('Latin Pop', 2), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Belly,4,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1), ('Pop', 1)]",False
+Belo,3,,,0,[],False
+Belo Zero,3,,,0,[],False
+Ben Onono,6,,EDM,1,"[('EDM', 1)]",False
+Benefit,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Benji B,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Benny Benassi,14,,Hip-Hop,2,"[('Hip-Hop', 2), ('EDM', 1), ('Pop', 1), ('Alternative', 1), ('Latin Pop', 1)]",False
+Benny Benni,13,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1)]",False
+Benny Dayal,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Benny Jamz,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Benny the Butcher,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Benza,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1), ('R&B', 1)]",False
+Berliner Philharmoniker,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Beth Gibbons,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Beto Cuevas,47,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Betty Wright,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Beyoncé,55,"Pop, R&B",Pop,11,"[('Pop', 11), ('Hip-Hop', 8), ('R&B', 5), ('Latin Pop', 2), ('Pop Rock', 2)]",True
+Beéle,2,,Latin Pop,1,"[('Latin Pop', 1), ('Pop', 1)]",False
+Białas,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Bicep,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Big Ali,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Big Baller B,2,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+Big Boi,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Big Herk,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Big K.R.I.T.,16,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Big Kap,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Big L,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Big Narstie,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('Pop', 1)]",False
+Big Nastee,3,,,0,[],False
+Big Page,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Big Pun,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Big Red Machine,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Big Scoob,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Big Sean,79,,Pop,7,"[('Pop', 7), ('R&B', 7), ('Hip-Hop', 6), ('Pop Rock', 2), ('EDM', 1)]",False
+Big Sloan,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Big Wy,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bilal,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bill Withers,8,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop Rock', 1)]",False
+Billen Ted,2,,EDM,1,"[('EDM', 1)]",False
+Billie Eilish,26,"Pop, Alternative",R&B,2,"[('R&B', 2), ('Alternative Pop', 1), ('Pop', 1)]",True
+Billionaire B,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Billy Blue,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Binary Finary,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Birdman,20,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 1), ('Pop Rock', 1), ('Alternative', 1)]",False
+Birdy,3,,EDM,1,"[('EDM', 1)]",False
+Bishop Lamont,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bizarrap,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1)]",False
+Bizarre,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bizzy Bone,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bktherula,1,,,0,[],False
+Black Coffee,4,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Black Eyed Peas,53,"Pop, Hip-Hop",Pop,9,"[('Pop', 9), ('R&B', 7), ('Hip-Hop', 3), ('Latin Pop', 2), ('EDM', 2)]",True
+Black Hippy,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Black Jonas Point,8,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Black M,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Black Thought,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Black V Neck,2,,EDM,1,"[('EDM', 1)]",False
+Blake Shelton,5,,Latin Pop,2,"[('Latin Pop', 2), ('R&B', 1), ('Hip-Hop', 1)]",False
+Blanco,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bleachers,2,,Pop,1,"[('Pop', 1), ('Country', 1), ('Alternative Pop', 1)]",False
+Blessd,7,,Reggaeton,3,"[('Reggaeton', 3)]",False
+BlocBoy JB,6,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Blood,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Blood Type,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+BloodPop®,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Blu,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Blu Cantrell,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Blxst,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bo Hagon,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bob,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bob Sinclar,9,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bobby Brown,8,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Bobby Creekwater,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bobby Shmurda,4,,Reggaeton,2,"[('Reggaeton', 2), ('Hip-Hop', 1)]",False
+Bobby Womack,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Boldy James,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bomba Estéreo,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Bon Iver,15,,Pop,1,"[('Pop', 1), ('Country', 1), ('Hip-Hop', 1)]",False
+Bon Jovi,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bone Thugs‐n‐Harmony,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Boney M.,3,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bonnie Tyler,2,,EDM,1,"[('EDM', 1)]",False
+Bono,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Pop Rock', 1), ('Alternative', 1)]",False
+Boombox Cartel,4,,,0,[],False
+Booty Luv,10,,EDM,1,"[('EDM', 1)]",False
+Boo‐Yaa T.R.I.B.E.,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Borgeous,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Bounty Killer,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Reggaeton', 1)]",False
+Bow Wow,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bowdidge & Taylor,7,,EDM,1,"[('EDM', 1)]",False
+Boys Like Girls,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Boyz II Men,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Bradley Cooper,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Brando,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Brando Gordon,5,,,0,[],False
+Brandon Love,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Brandy,6,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1), ('R&B', 1)]",False
+Bred,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Brendon Urie,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Brent Faiyaz,6,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Bri Steves,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bria Lee,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Brian Newman,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Brick & Lace,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Bridget Kelly,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bring Me the Horizon,1,,Pop,1,"[('Pop', 1)]",False
+Brinx Billions,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Brisco,15,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Britney Spears,35,Pop,Pop,11,"[('Pop', 11), ('Hip-Hop', 4), ('R&B', 4), ('Dance', 2), ('Latin Pop', 1)]",True
+Brittany Street,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Brody Brown,3,,Pop,2,"[('Pop', 2), ('Soul', 1), ('R&B', 1), ('Funk', 1)]",False
+Brooks,3,,EDM,1,"[('EDM', 1)]",False
+Brown,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Brray,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Bruno Mars,110,"Pop, R&B, Funk",Pop,11,"[('Pop', 11), ('Hip-Hop', 7), ('R&B', 4), ('EDM', 2), ('Dance', 2)]",True
+Bryan Adams,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Bryan Roberts,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Bryant Myers,23,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 2)]",False
+Bryn Christopher,9,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Brynn Williams,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Bryson Tiller,9,,R&B,4,"[('R&B', 4), ('Pop', 3), ('Hip-Hop', 2), ('EDM', 1)]",False
+Brytiago,13,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Buckshot,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Buddy,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Budjerah,1,,Pop,1,"[('Pop', 1)]",False
+Buena Vista Social Club,2,,Pop Rock,2,"[('Pop Rock', 2), ('Alternative', 1)]",False
+Buffy Sainte‐Marie,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Buggz,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Buju Banton,4,,,0,[],False
+Bulgarian State Radio & Television Female Vocal Choir,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Bulin 47,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Bulleez n Nerdz,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Bump J,3,,,0,[],False
+Bumpy J,3,,,0,[],False
+Bun B,45,,Hip-Hop,4,"[('Hip-Hop', 4), ('Latin Pop', 1), ('R&B', 1)]",False
+Burna Boy,10,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Reggaeton', 1), ('Pop Rock', 1), ('Alternative', 1)]",False
+Buscabulla,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Busta Rhymes,35,,Hip-Hop,7,"[('Hip-Hop', 7), ('R&B', 4), ('Pop', 3), ('Latin Pop', 1), ('EDM', 1)]",False
+ButeraMoonlight,1,,R&B,1,"[('R&B', 1)]",False
+Buxxi,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Buzz Junkies,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+BØRNS,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Bēkon,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+B‐Lo,2,,,0,[],False
+B‐Real,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+C-Ride,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+C-San,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+C.A.S.H.,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+CAJOR,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+CHILLER,3,,,0,[],False
+CHOPS,1,,,0,[],False
+CJ Holland,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+CRAY,2,,Pop Rock,1,"[('Pop Rock', 1)]",False
+CYRIL,1,,Pop,1,"[('Pop', 1)]",False
+Ca$his,9,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Cage & Aviary,1,,,0,[],False
+Caitlin Gann,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Calum Scott,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Calum Slingerland,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Calvin Harris,256,EDM,Pop,14,"[('Pop', 14), ('R&B', 8), ('Hip-Hop', 5), ('Dance', 2), ('Pop Rock', 2)]",True
+CamelPhat,9,,EDM,1,"[('EDM', 1)]",False
+Camila Cabello,15,Pop,R&B,2,"[('R&B', 2), ('Hip-Hop', 2), ('Pop', 2), ('Alternative Pop', 1), ('Latin Pop', 1)]",True
+Camilla Ice,2,,EDM,1,"[('EDM', 1)]",False
+Camilo,2,,Latin Pop,1,"[('Latin Pop', 1)]",False
+CamrinWatsin,5,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Cam’ron,17,,,0,[],False
+Candelita,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Candice Pillay,5,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Cano & Valence,12,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Pop', 1)]",False
+Capo Plaza,5,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Capone‐N‐Noreaga,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Cardi B,28,,Reggaeton,3,"[('Reggaeton', 3), ('Pop', 3), ('Latin Trap', 2), ('R&B', 2), ('Funk', 1)]",False
+Carin León,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Carl Louis,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Carl Ray,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Carl Thomas,1,,,0,[],False
+Carla Morrison,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Carlinhos Brown,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Carlos Cid,2,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Carlos Jean,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Carlos Ponce,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Carlos Santana,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Carlos Vives,44,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1)]",False
+Carly Rae Jepsen,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Carly Simon,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Carmen,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Carnage,5,,EDM,1,"[('EDM', 1)]",False
+Carnal,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Carola,1,,Pop,1,"[('Pop', 1)]",False
+Carolina Marquez,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Caroline Shaw,5,,,0,[],False
+Cascada,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Casely,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Casey Veggies,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Cash Cobain,4,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1), ('Pop', 1)]",False
+Cash Kidd,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Cashmere Cat,4,,Pop,2,"[('Pop', 2), ('R&B', 2)]",False
+Casper Mágico,8,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 2)]",False
+Cassettes Won’t Listen,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Cassidy,2,,,0,[],False
+Cassius Henry,2,,,0,[],False
+Cat Power,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('Alternative Pop', 1)]",False
+Cathy Guetta,3,,EDM,1,"[('EDM', 1)]",False
+Cayito Dangond,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Cazzu,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+CeCe Peniston,8,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+CeCe Rogers,1,,EDM,1,"[('EDM', 1)]",False
+Cecily Strong,4,,R&B,1,"[('R&B', 1)]",False
+Cedric Gervais,4,,EDM,1,"[('EDM', 1), ('Alternative Pop', 1)]",False
+CeeLo Green,19,,Pop,4,"[('Pop', 4), ('Hip-Hop', 3), ('R&B', 2), ('Funk', 1), ('Latin Pop', 1)]",False
+Celia Cruz,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Central Cee,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Pop', 1)]",False
+Centre Court,2,,EDM,1,"[('EDM', 1)]",False
+"Cerf, Mitiska & Jaren",1,,EDM,1,"[('EDM', 1)]",False
+Cern,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Cerrone,2,,,0,[],False
+Chacal,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Chace Infinite,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Chairman Fred Hampton,5,,,0,[],False
+Chaka Khan,3,,Pop,2,"[('Pop', 2), ('Rock', 1), ('R&B', 1)]",False
+Chalie Boy,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Cham,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Chamillionaire,24,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1), ('R&B', 1)]",False
+Champtown,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Chance the Rapper,13,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Hip-Hop', 1)]",False
+Chandler Moore,5,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Chantal,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Chantal Kreviazuk,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Chaos Kid,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Charan,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Charles Aznavour,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Charli xcx,15,,Pop,8,"[('Pop', 8), ('R&B', 3), ('Dance', 2), ('EDM', 1), ('Alternative', 1)]",False
+Charlie Boy Dre,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Charlie Murphy,2,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Charlie Puth,6,Pop,EDM,1,"[('EDM', 1), ('Pop', 1), ('Dance', 1), ('Hip-Hop', 1), ('R&B', 1)]",True
+Charlie Wilson,26,,R&B,3,"[('R&B', 3), ('Pop', 3), ('Hip-Hop', 1), ('Rock', 1)]",False
+Charlotte Haining,3,,EDM,1,"[('EDM', 1)]",False
+Chayanne,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Chaze the Chat,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Cheat Codes,26,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1), ('EDM', 1)]",False
+Cheb Khalass,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Chefin,1,,Pop,1,"[('Pop', 1)]",False
+Chencho Corleone,5,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1)]",False
+Cher,7,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Cherry Poppadom Netorare Massacre,1,,Pop,1,"[('Pop', 1)]",False
+Chesca,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Che’Nelle,1,,EDM,1,"[('EDM', 1)]",False
+Chic,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Chicago West,3,,,0,[],False
+Chicane,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Chief $upreme,2,,Pop,1,"[('Pop', 1)]",False
+Chief Keef,10,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Childish Gambino,5,,R&B,2,"[('R&B', 2), ('Pop', 1)]",False
+Childish Major,2,,R&B,1,"[('R&B', 1)]",False
+Childofnines,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+ChildsPlay,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Childsplay,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Chilly Gonzales,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Chingo Bling,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Chino Pacas,3,,Regional Mexican,1,"[('Regional Mexican', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Chino XL,12,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Chip,3,,Pop,1,"[('Pop', 1)]",False
+Chip King,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Chip tha Ripper,5,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Chloe Angelides,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Chlöe,3,,EDM,1,"[('EDM', 1)]",False
+Chris Brown,57,R&B,Hip-Hop,8,"[('Hip-Hop', 8), ('R&B', 5), ('Pop', 4), ('EDM', 2), ('Latin Pop', 1)]",True
+Chris Decay,1,,EDM,1,"[('EDM', 1)]",False
+Chris Isaak,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Chris Jedi,6,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Chris Martin,1,,,0,[],False
+Chris Moyles,11,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Chris Porter,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Chris Rivers,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Chris Rock,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Chris Stapleton,4,,Pop,4,"[('Pop', 4), ('Country', 1), ('Dance', 1), ('R&B', 1), ('Funk', 1)]",False
+Chris Willis,12,,EDM,1,"[('EDM', 1)]",False
+Chrisette Michele,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Christina,2,,,0,[],False
+Christina Aguilera,65,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Hip-Hop', 3), ('Latin Pop', 2), ('EDM', 2)]",False
+Christina Milian,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Christina Perri,1,,Pop,1,"[('Pop', 1)]",False
+Chromatics,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Chrome,2,,EDM,1,"[('EDM', 1)]",False
+Chromeo,10,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Chrystal,4,,EDM,1,"[('EDM', 1), ('Pop', 1), ('Alternative', 1)]",False
+Chuck Inglish,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Chuckie,5,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Chuwi,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Chyno Miranda,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Ciara,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Claudia Leitte,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Claudio,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Clean Bandit,31,,Pop,4,"[('Pop', 4), ('R&B', 2), ('Dance', 1), ('Dancehall', 1), ('EDM', 1)]",False
+Clementine Douglas,7,,EDM,2,"[('EDM', 2)]",False
+Clever,2,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Hip-Hop', 1)]",False
+Clinton Sparks,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Clipse,31,,Hip-Hop,4,"[('Hip-Hop', 4), ('Latin Pop', 1), ('R&B', 1)]",False
+Cody Simpson,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Coi Leray,5,,EDM,2,"[('EDM', 2)]",False
+Colbie Caillat,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Colby O’Donis,19,,Pop,5,"[('Pop', 5), ('Hip-Hop', 1), ('Dance', 1), ('R&B', 1)]",False
+Coldplay,104,"Pop Rock, Alternative",Pop,5,"[('Pop', 5), ('R&B', 3), ('Hip-Hop', 3), ('EDM', 2), ('Rock', 1)]",True
+Colin Munroe,7,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Collie Buddz,8,,R&B,2,"[('R&B', 2), ('Pop', 1), ('Hip-Hop', 1)]",False
+Commodores,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Common,34,,Pop,2,"[('Pop', 2), ('Hip-Hop', 1), ('Dance', 1), ('R&B', 1)]",False
+Congorock,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Connie Mitchell,3,,,0,[],False
+Conoga,5,,EDM,1,"[('EDM', 1)]",False
+Conor Maynard,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Consequence,25,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Conway,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Cookin’ Soul,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Cordae,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Core DJ's,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Cori B,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Cory Gunz,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Cosculluela,19,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2)]",False
+Courtney Argue,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Courtney Orlando,3,,Pop,1,"[('Pop', 1)]",False
+Courtney‐Mae Briggs,5,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Cover Nation,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1), ('Hip-Hop', 1)]",False
+Cozi,2,,EDM,1,"[('EDM', 1)]",False
+Cozz,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Craig Armstrong,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Craig David,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('EDM', 1)]",False
+Cricet,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Cris Cab,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Crissin,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Crookers,10,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Cross,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Crybaby Cereal,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Crystal Nicole,2,,EDM,1,"[('EDM', 1)]",False
+Cubo,13,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Cults,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Culture Club,2,,EDM,1,"[('EDM', 1)]",False
+Culture Code,1,,Pop,1,"[('Pop', 1)]",False
+Culture Crew,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+CurT@!n$,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Curren$y,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Curtis Mayfield,5,,,0,[],False
+Cutlass Reid,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Cutmaster C,2,,,0,[],False
+Cutty Ranks,7,,Hip-Hop,3,"[('Hip-Hop', 3), ('Reggaeton', 1), ('Latin Pop', 1), ('R&B', 1)]",False
+Cyhi,18,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Cynthia Erivo,11,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Cypress Hill,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Cyssero,2,,,0,[],False
+Céline Dion,7,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Latin Pop', 1)]",False
+C‐Mob,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+D&D,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+D-Rado,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+D.N.K,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+D.O.D,3,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+D12,10,,Hip-Hop,3,"[('Hip-Hop', 3)]",False
+DESTIN CONRAD,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DEV,18,,Hip-Hop,5,"[('Hip-Hop', 5), ('EDM', 1), ('Pop', 1), ('R&B', 1), ('Latin Pop', 1)]",False
+DFZM,7,,Reggaeton,3,"[('Reggaeton', 3)]",False
+DISTO,2,,EDM,1,"[('EDM', 1)]",False
+DJ Adoni,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Allan,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+DJ Antoine,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Arman,12,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2), ('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+DJ Big Mike,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Buddha,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+DJ Bullies,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Buttafingaz,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Candlestick,7,,R&B,2,"[('R&B', 2), ('Reggaeton', 1), ('Latin Trap', 1), ('Pop', 1), ('Hip-Hop', 1)]",False
+DJ Capcom,15,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 1)]",False
+DJ Class,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Clue?,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Critical Hype,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Dave,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Dave Aguilar,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+DJ Drama,7,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 1)]",False
+DJ EFN,12,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Erb,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+DJ Esco,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+DJ Feio,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+DJ Felli Fel,11,,Dancehall,1,"[('Dancehall', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Fletch,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Footloose,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Green Lantern,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Hard Hitta,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+DJ Haze,15,,Hip-Hop,3,"[('Hip-Hop', 3)]",False
+DJ Head,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Heretic,2,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+DJ Hope,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+DJ ICE,16,,Pop,8,"[('Pop', 8), ('R&B', 4), ('Dance', 2), ('Latin Pop', 2), ('Hip-Hop', 2)]",False
+DJ Ideal,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Ill Will,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Jazzy Jeff,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Kass,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Kay Slay,10,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+DJ Keyz,6,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+DJ Khaled,53,,Hip-Hop,7,"[('Hip-Hop', 7), ('R&B', 5), ('Pop', 2), ('Latin Pop', 1), ('EDM', 1)]",False
+DJ Kram,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+DJ Laz,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Luian,17,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2)]",False
+DJ Mariano,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Max Herrera,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Mich,9,,EDM,2,"[('EDM', 2), ('Pop', 2), ('Hip-Hop', 1), ('R&B', 1)]",False
+DJ Milton,7,,Pop,3,"[('Pop', 3), ('R&B', 2), ('EDM', 1)]",False
+DJ Morphius,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Muggs,5,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+DJ Nelson,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+DJ Nervoso,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+DJ Noodles,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Peas,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Pharris,2,,,0,[],False
+DJ Poet,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Premier,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ ROCCO & DJ EVER B,4,,Reggaeton,1,"[('Reggaeton', 1), ('EDM', 1)]",False
+DJ Refresh,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Revolution,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ S.R.,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+DJ Scratch,1,,,0,[],False
+DJ Semi,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ September 7th,10,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+DJ Shadow,4,,,0,[],False
+DJ Shorty,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Sizzahandz,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+DJ Skee,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Sliink,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+DJ Smallz,7,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+DJ Smoke,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+DJ Snake,23,EDM,Reggaeton,3,"[('Reggaeton', 3), ('Hip-Hop', 2), ('EDM', 1), ('Latin Pop', 1), ('Dancehall', 1)]",True
+DJ Spinna,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Square,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+DJ Stylis,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+DJ Surda,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+DJ Swamp Izzo,2,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+DJ TMB,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ Tich,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Pop Rock', 1)]",False
+DJ Unexpected,3,,,0,[],False
+DJ Warrior,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ White Shadow,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+DJ Whiteowl,10,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 1), ('R&B', 1)]",False
+DJ Whoo Kid,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJ.Fresh,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DJC,2,,Pop,1,"[('Pop', 1)]",False
+DJs From Mars,6,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1), ('Hip-Hop', 1)]",False
+DKC2,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DMX,23,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+DR. Moriarity,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DRAM,4,,R&B,1,"[('R&B', 1), ('EDM', 1)]",False
+DVBBS,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Da Brat,3,,,0,[],False
+Da Muttz,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Da Ruckus,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DaBaby,14,,Hip-Hop,4,"[('Hip-Hop', 4), ('Pop', 2), ('R&B', 2), ('Reggaeton', 1), ('Dance', 1)]",False
+Daddy Yankee,49,Reggaeton,Reggaeton,6,"[('Reggaeton', 6), ('Latin Trap', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1)]",True
+Daddy’s Groove,2,,EDM,1,"[('EDM', 1)]",False
+Daecolm,8,,EDM,1,"[('EDM', 1), ('Pop', 1), ('Reggaeton', 1)]",False
+Daft Punk,25,,Pop,6,"[('Pop', 6), ('Hip-Hop', 5), ('R&B', 4), ('Funk', 1), ('Latin Pop', 1)]",False
+Dale Saunders,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Damian “Jr. Gong” Marley,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Damon Dash,6,,,0,[],False
+Damon Lamar,2,,,0,[],False
+Dan + Shay,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Dan Gerous,1,,EDM,1,"[('EDM', 1)]",False
+Dan Kanter,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Dan Mason,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Dane Uno,1,,,0,[],False
+Dani Faiv,6,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Dani Flow,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Daniel Caesar,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Danny Avila,3,,,0,[],False
+Danny Brown,13,,Hip-Hop,3,"[('Hip-Hop', 3)]",False
+Danny Daniel,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Danny Freakazoid,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Danny Mercer,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Danny Ocean,5,,EDM,1,"[('EDM', 1)]",False
+Danny O’Donoghue,9,,Pop,1,"[('Pop', 1)]",False
+Darell,20,,Reggaeton,4,"[('Reggaeton', 4), ('Latin Trap', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Dario G,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Dash Snow,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dasha,1,,EDM,1,"[('EDM', 1)]",False
+Dashius Clay,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+DatA,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Dave,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Pop', 1)]",False
+Dave Audé,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Dave Kurtis,3,,EDM,1,"[('EDM', 1)]",False
+Dave Luxe,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dave Stewart,4,,EDM,1,"[('EDM', 1)]",False
+David Arnold,4,,Pop,1,"[('Pop', 1)]",False
+David Banner,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+David Begun,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+David Bisbal,18,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1)]",False
+David Bowie,1,,EDM,1,"[('EDM', 1)]",False
+David Di Sabato,1,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+David Guetta,429,EDM,Pop,16,"[('Pop', 16), ('R&B', 8), ('Reggaeton', 5), ('Hip-Hop', 4), ('Dance', 2)]",True
+David Hodges,2,,Pop,1,"[('Pop', 1)]",False
+David Rush,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Davido,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('EDM', 1)]",False
+Davina McCall,9,,Pop,1,"[('Pop', 1)]",False
+Dawn Richard,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Dayami La Musa,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Daz Dillinger,23,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+De La Ghetto,27,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+DeJ Loaf,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Debbie Nelson,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dee Lush,4,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+DeeM,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Def Leppard,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Dei V,3,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Del the Funky Homosapien,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Delerium,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Delilah Montagu,2,,EDM,1,"[('EDM', 1)]",False
+Dem Jointz,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Demarco,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Demi Lovato,33,,Pop,5,"[('Pop', 5), ('R&B', 2), ('EDM', 1), ('Hip-Hop', 1), ('Dance', 1)]",False
+Denise Belfon,4,,EDM,1,"[('EDM', 1)]",False
+Denise Chaila,1,,Pop,1,"[('Pop', 1)]",False
+Deniz Koyu,5,,EDM,1,"[('EDM', 1), ('Pop Rock', 1), ('Alternative', 1)]",False
+Denyerkin,9,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Denzel Curry,3,,,0,[],False
+Deorro,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Desiigner,22,,Hip-Hop,2,"[('Hip-Hop', 2), ('Pop', 1)]",False
+Desiire,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Detail,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Devi April McCallion,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Devito,1,,EDM,1,"[('EDM', 1)]",False
+Devlin,9,,Pop,1,"[('Pop', 1)]",False
+Dhee,3,,Pop,1,"[('Pop', 1)]",False
+Dhrruv Yogi,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1)]",False
+Diamond Flow,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Diana Gordon,3,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Diana Ross,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Dibyo,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Diddy,22,,R&B,4,"[('R&B', 4), ('Hip-Hop', 3), ('Pop', 3)]",False
+Diddy – Dirty Money,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Dido,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Die Fantastischen Vier,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dijon,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Dilated Peoples,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Diljit Dosanjh,21,,Bollywood,2,"[('Bollywood', 2), ('Pop', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Dillin Hoox,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dillon Francis,2,,EDM,1,"[('EDM', 1)]",False
+Dilu Dilwala,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dimatik,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Dimitri Vangelis,3,,EDM,1,"[('EDM', 1)]",False
+Dimitri Vegas,7,,EDM,1,"[('EDM', 1)]",False
+Dimitri Vegas & Like Mike,15,,EDM,2,"[('EDM', 2), ('Hip-Hop', 1), ('Pop', 1), ('Reggaeton', 1)]",False
+Dina Rae,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dinamarca,2,,R&B,2,"[('R&B', 2), ('Pop', 1), ('Hip-Hop', 1)]",False
+Dinka,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Pop Rock', 1), ('Alternative', 1), ('EDM', 1)]",False
+Diox,3,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Diplo,24,,Pop,4,"[('Pop', 4), ('R&B', 2), ('Reggaeton', 1), ('Latin Trap', 1), ('EDM', 1)]",False
+Dirtbag,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Dirty Ducks,1,,Pop,1,"[('Pop', 1)]",False
+Dirty Money,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dirty Pop,2,,Pop,1,"[('Pop', 1)]",False
+Dirty South,4,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('EDM', 1)]",False
+Disciples,19,,EDM,2,"[('EDM', 2), ('Pop', 1)]",False
+Disclosure,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Disco Fries,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Disturbed,1,,Pop,1,"[('Pop', 1)]",False
+Diva,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Dizzee Rascal,47,,Pop,2,"[('Pop', 2), ('R&B', 2), ('EDM', 1), ('Latin Pop', 1), ('Pop Rock', 1)]",False
+Dizzman,7,,Pop,2,"[('Pop', 2), ('R&B', 1), ('EDM', 1), ('Hip-Hop', 1), ('Pop Rock', 1)]",False
+Dj Mhark,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Django Django,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Djedjotronic,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Do or Die,2,,,0,[],False
+Dobarro,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Doc Roc,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Dody6,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Doechii,8,,R&B,2,"[('R&B', 2), ('EDM', 1), ('Pop', 1), ('Hip-Hop', 1)]",False
+Dogmatic,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Doja Cat,7,"Pop, Hip-Hop",R&B,3,"[('R&B', 3), ('Pop', 3), ('Hip-Hop', 1), ('Dance', 1)]",True
+Dolly Parton,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Dom Kennedy,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Domingo,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dominic Fike,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Don C,4,,,0,[],False
+Don Diablo,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Don Dinero,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Don Mayor,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Don Miguelo,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Don Omar,17,Reggaeton,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",True
+Don Toliver,16,Hip-Hop,R&B,3,"[('R&B', 3), ('Hip-Hop', 3), ('Pop', 2)]",True
+Donae’o,2,,EDM,1,"[('EDM', 1)]",False
+Donald Glover,3,,R&B,2,"[('R&B', 2), ('Pop', 1)]",False
+Donkong,3,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Donna Summer,1,,,0,[],False
+Donnis,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Donovan Woods,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Dora the Explorer,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Dot Rotten,2,,Pop,1,"[('Pop', 1)]",False
+Dougie F,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Dove Cameron,9,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Dr. Donda West,2,,,0,[],False
+Dr. Dre,71,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 2), ('Pop', 1), ('Funk', 1), ('Alternative Rock', 1)]",False
+Dr. Fresch,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Draco Rosa,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Dragonfly,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Dragón & Caballero,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Drake,355,"Hip-Hop, R&B",Pop,12,"[('Pop', 12), ('Hip-Hop', 12), ('R&B', 9), ('Reggaeton', 2), ('Pop Rock', 1)]",True
+Drakeo the Ruler,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Dramills,1,,,0,[],False
+Dre,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dream Ami,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Dreamtrak Diamond Sound,4,,,0,[],False
+Dree,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dreezy,3,,,0,[],False
+Drego,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+DrewsDatDude,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Driicky Graham,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Droop‐E,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Druski,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Dua Lipa,94,"Pop, Dance",Pop,15,"[('Pop', 15), ('R&B', 4), ('EDM', 3), ('Hip-Hop', 3), ('Reggaeton', 2)]",True
+DubVision,7,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Dubb,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dubbel Dutch,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Dubdogz,2,,EDM,1,"[('EDM', 1)]",False
+Dubmood,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Duck Sauce,9,,EDM,1,"[('EDM', 1)]",False
+Duffy,1,,,0,[],False
+Duke Ellington,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Duke Pearson,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Duki,10,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Dunkey,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dunson,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Duran Duran,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Dwane Husbands,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Dwayne Husbands,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Dwele,8,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Dylan Bounce,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Dyland & Lenny,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Dynamic DJ Twins,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Dystinct,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Dímelo Flow,4,,Reggaeton,1,"[('Reggaeton', 1)]",False
+D‐Block,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+D‐Block Europe,1,,Pop,1,"[('Pop', 1)]",False
+D‐Life,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+D’Mingo,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+D’banj,2,,,0,[],False
+E.S. Posthumus,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+EDDIE,2,,EDM,1,"[('EDM', 1)]",False
+EJAE,5,,EDM,1,"[('EDM', 1)]",False
+EPMD,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ead3n,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Earl Sweatshirt,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+"Earth, Wind & Fire",2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Eastwood,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Easy Lantana,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Eazy‐E,7,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Ebro Darden,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ed Sheeran,183,Pop,Pop,10,"[('Pop', 10), ('R&B', 6), ('Hip-Hop', 4), ('Funk', 1), ('Soul', 1)]",True
+Eddie Benjamin,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Eddy B & Tim Gunter,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Edgar Meyer,5,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Efb Deejays,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Ego Nwodim,10,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Alternative', 1)]",False
+Eiffel 65,2,,EDM,1,"[('EDM', 1)]",False
+El Alfa,9,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+El Canto del Loco,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+El Cata,9,,Latin Pop,2,"[('Latin Pop', 2), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+El Chevo,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+El Chombo,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+El Fother,9,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+El Guincho,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+El Micha,6,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+El Taiger,4,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Eladio Carrión,5,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1)]",False
+Elektrik Haze,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Elephant Man,7,,Reggaeton,2,"[('Reggaeton', 2), ('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Elettra Lamborghini,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Elisa,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Eliza,5,,R&B,1,"[('R&B', 1), ('Pop', 1), ('Latin Pop', 1)]",False
+Eliza Rose,1,,EDM,1,"[('EDM', 1)]",False
+Ella Henderson,3,,EDM,1,"[('EDM', 1)]",False
+Ella Mai,1,,Pop,1,"[('Pop', 1)]",False
+Ellie Goulding,63,Pop,Pop,4,"[('Pop', 4), ('Hip-Hop', 2), ('R&B', 2), ('Latin Pop', 1), ('EDM', 1)]",True
+Ellinoora,1,,Pop,1,"[('Pop', 1)]",False
+Elliphant,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Elly Jackson,23,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 2), ('Pop', 2), ('Latin Pop', 1), ('Rock', 1)]",False
+Elon Rutberg,3,,,0,[],False
+Elton John,20,"Pop, Rock",Pop,4,"[('Pop', 4), ('Hip-Hop', 3), ('R&B', 2), ('Dance', 2), ('Pop Rock', 1)]",True
+Elvis Crespo,45,,Latin Pop,2,"[('Latin Pop', 2), ('Hip-Hop', 1)]",False
+Elyanna,9,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Emeli Sandé,28,,Pop,2,"[('Pop', 2), ('Hip-Hop', 1), ('Dance', 1), ('Dancehall', 1), ('EDM', 1)]",False
+Emile Haynie,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Eminem,422,Hip-Hop,Pop,9,"[('Pop', 9), ('R&B', 8), ('Hip-Hop', 6), ('Pop Rock', 1), ('Alternative', 1)]",True
+Emjae,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Emmanuel,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Empire of the Sun,2,,EDM,1,"[('EDM', 1)]",False
+Enrique Iglesias,26,,Hip-Hop,4,"[('Hip-Hop', 4), ('Pop', 4), ('Reggaeton', 1), ('Latin Trap', 1), ('Latin Pop', 1)]",False
+Ensi,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Enur,3,,Pop,1,"[('Pop', 1), ('Soul', 1), ('EDM', 1)]",False
+Enzo Ortiz,2,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Ephraim Sykes,8,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Eric Clapton,4,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Eric Darken,5,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Erykah Badu,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Eshon Burgundy,3,,Pop,1,"[('Pop', 1)]",False
+Esperanza Spalding,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Estelle,6,,EDM,1,"[('EDM', 1)]",False
+Estello,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Ester Dean,2,,EDM,1,"[('EDM', 1)]",False
+Ethan Slater,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Etta James,12,,EDM,1,"[('EDM', 1)]",False
+Europe,2,,EDM,1,"[('EDM', 1)]",False
+Eurythmics,7,,Pop,2,"[('Pop', 2), ('Dance', 1), ('EDM', 1), ('Hip-Hop', 1)]",False
+Evan Landes,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Evanescence,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Eve,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+ExPLOiX Music,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Example,36,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 3), ('EDM', 2), ('R&B', 2), ('Latin Pop', 1)]",False
+Eye‐Kyu,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ez Mil,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+E‐40,34,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1)]",False
+FAANGS,3,,EDM,1,"[('EDM', 1)]",False
+FAST BOY,3,,EDM,1,"[('EDM', 1)]",False
+FEDUK,2,,Pop,1,"[('Pop', 1)]",False
+FERG,7,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1), ('Pop', 1)]",False
+FIFA Sound,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+FINNEAS,3,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+FKA twigs,8,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Dance', 1)]",False
+FS Green,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+FVR1,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Faber,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Fabo,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Fabolous,55,,R&B,5,"[('R&B', 5), ('Hip-Hop', 4), ('Pop', 4), ('Latin Pop', 1)]",False
+Fabri Fibra,5,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Fainal & Shako,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Faithless,8,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Falco,17,,Pop,5,"[('Pop', 5), ('Dance', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Fall Out Boy,8,,Pop,1,"[('Pop', 1), ('Country', 1), ('Hip-Hop', 1)]",False
+Fancy Olsen,6,,Pop,4,"[('Pop', 4), ('R&B', 2), ('EDM', 1), ('Dance', 1)]",False
+Fantemix,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Faouzia,1,,EDM,1,"[('EDM', 1)]",False
+Far East Movement,10,,R&B,3,"[('R&B', 3), ('Pop', 2), ('Hip-Hop', 2), ('EDM', 1), ('Funk', 1)]",False
+Far Too Loud,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Farruko,51,Reggaeton,Reggaeton,4,"[('Reggaeton', 4), ('Hip-Hop', 3), ('Latin Trap', 2), ('EDM', 2), ('Latin Pop', 1)]",True
+Fat Joe,56,,Hip-Hop,3,"[('Hip-Hop', 3), ('Reggaeton', 2), ('Latin Pop', 1), ('EDM', 1)]",False
+Fatboy Slim,19,,Hip-Hop,1,"[('Hip-Hop', 1), ('EDM', 1)]",False
+Father John Misty,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Fatin Dantzler,4,,,0,[],False
+Fatman Scoop,14,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Fedde Le Grand,14,,EDM,2,"[('EDM', 2)]",False
+Fedez,2,,Pop,2,"[('Pop', 2), ('R&B', 1)]",False
+Feel‐X,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Feenixpawl,12,,EDM,1,"[('EDM', 1), ('Dancehall', 1), ('Pop', 1), ('Dance', 1)]",False
+Fefe Dobson,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Feid,11,,Reggaeton,4,"[('Reggaeton', 4), ('Latin Trap', 1)]",False
+Felix Snow,1,,R&B,1,"[('R&B', 1)]",False
+Felix da Housecat,2,,EDM,1,"[('EDM', 1)]",False
+Ferd,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Ferenc Fricsay,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Fergie,20,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 3), ('Pop', 3), ('Latin Pop', 1), ('Rock', 1)]",False
+Fetty Wap,9,,Hip-Hop,4,"[('Hip-Hop', 4), ('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Fher Olvera,8,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Fideles,9,,EDM,1,"[('EDM', 1)]",False
+Fifth Harmony,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Filmore,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Firebeatz,1,,EDM,1,"[('EDM', 1)]",False
+Fireboy DML,5,,Reggaeton,1,"[('Reggaeton', 1), ('Pop', 1)]",False
+First Aid Kit,1,,Pop,1,"[('Pop', 1)]",False
+Fivio Foreign,12,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Fleur East,9,,Pop,3,"[('Pop', 3), ('R&B', 2), ('EDM', 1), ('Hip-Hop', 1)]",False
+Flight Facilities,1,,,0,[],False
+Flo Milli,2,,R&B,1,"[('R&B', 1)]",False
+Flo Rida,68,,Pop,7,"[('Pop', 7), ('R&B', 5), ('Hip-Hop', 4), ('EDM', 2), ('Funk', 1)]",False
+Florence + the Machine,6,,EDM,2,"[('EDM', 2), ('Pop', 2), ('R&B', 1), ('Hip-Hop', 1), ('Country', 1)]",False
+Florence Welch,4,,Pop,1,"[('Pop', 1), ('Dance', 1), ('EDM', 1)]",False
+Florida,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Florida Georgia Line,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+FloyyMenor,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Flying Lotus,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Fonzworth Bentley,4,,,0,[],False
+Foreign Beggars,6,,EDM,1,"[('EDM', 1)]",False
+Foster the People,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Foxy Brown,2,,,0,[],False
+Foz Tee,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Francis and the Lights,5,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Francisco,2,,EDM,1,"[('EDM', 1)]",False
+Frank Ocean,23,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 2), ('EDM', 1), ('R&B', 1)]",False
+Frankie Grande,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Frankie J,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Frankie Valli,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Freaks,14,,EDM,2,"[('EDM', 2), ('Pop', 1), ('Dance', 1)]",False
+Fred Armisen,14,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Dance', 1)]",False
+Fred Durst,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Fred Hammond,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Fred again..,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Fred the Godson,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Freddie Gibbs,6,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Fredo Santana,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Freeway,9,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+French Montana,31,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 3), ('Pop', 2), ('Alternative Pop', 1), ('Reggaeton', 1)]",False
+Freshlyground,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Freszko,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Frostie,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Fuego,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Fuerza Regida,3,Regional Mexican,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('R&B', 1)]",True
+Funkadelic,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Funkmaster Flex,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Fuse ODG,2,,Pop,1,"[('Pop', 1)]",False
+Future,63,Hip-Hop,R&B,8,"[('R&B', 8), ('Hip-Hop', 7), ('Pop', 7), ('Reggaeton', 2), ('Latin Trap', 2)]",True
+Fuzz,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+G.O.O.D. Music,1,,,0,[],False
+G.R.L.,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+GAZZI,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+GD&TOP,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+GIMS,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+GIVĒON,4,,R&B,2,"[('R&B', 2), ('Pop', 1), ('Hip-Hop', 1)]",False
+GLC,21,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+GLOWINTHEDARK,6,,EDM,1,"[('EDM', 1)]",False
+GRIP,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+GZA/Genius,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Gabby,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Gabito Ballesteros,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Gabriel & Dresden,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Gabriela Berlingeri,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Gabry Ponte,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Galantis,21,,EDM,2,"[('EDM', 2), ('Pop', 1)]",False
+Gallant,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Gammer,5,,EDM,1,"[('EDM', 1)]",False
+Gangsta Boo,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ganxsta Ridd,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Garcia,12,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Garrett Clayton,8,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Gary Barlow,9,,Pop,1,"[('Pop', 1)]",False
+Gary Lightbody,2,,Pop,2,"[('Pop', 2), ('Country', 1)]",False
+Gavin Graham,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Geddy Lee,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Gee Watts,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Gene Noble,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Gente de Zona,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Geolier,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+George,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+George Birge,2,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+George Clinton,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+George Kwali,5,,Pop,1,"[('Pop', 1), ('Dance', 1), ('EDM', 1)]",False
+George Michael,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Georgi Kay,9,,EDM,1,"[('EDM', 1)]",False
+Gesaffelstein,2,,Pop,2,"[('Pop', 2), ('Dance', 1), ('R&B', 1)]",False
+Ghetts,1,,Pop,1,"[('Pop', 1)]",False
+GhostWridah,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ghostface Killah,11,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Gian Marco,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Gibson Brothers,2,,Pop,1,"[('Pop', 1), ('Soul', 1), ('EDM', 1)]",False
+Giddy,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Giggs,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Gigi D’Agostino,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Gigoló y La Exce,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Gilbere Forté,2,,,0,[],False
+Gilberto Santa Rosa,44,,Latin Pop,1,"[('Latin Pop', 1), ('Reggaeton', 1)]",False
+Gilli,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Ginuwine,2,,,0,[],False
+Giorgio Moroder,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('R&B', 1), ('Pop', 1)]",False
+Gipsy Kings,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Girl on Couch,2,,EDM,1,"[('EDM', 1)]",False
+Girlicious,2,,EDM,1,"[('EDM', 1)]",False
+Gisselle,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Glasses Malone,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Glen Reynolds,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Glenn-D,8,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Globglogabgalab,2,,,0,[],False
+Gloria Estefan,44,,Latin Pop,2,"[('Latin Pop', 2), ('Hip-Hop', 1)]",False
+Gloria Trevi,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Gloria Velez,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Go Getters,1,,,0,[],False
+Go Periscope,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Godsmack,1,,,0,[],False
+Gold 1,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Golpe a Golpe,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Gonzoe,3,,,0,[],False
+Good Times Ahead,4,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Googoosh,1,,Pop,1,"[('Pop', 1)]",False
+GoonRock,33,,Pop,7,"[('Pop', 7), ('R&B', 4), ('Hip-Hop', 2), ('Latin Pop', 1), ('Dance', 1)]",False
+Gordo,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Gordon Withers,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Gorillaz,3,Alternative,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",True
+Goya Menor,2,,EDM,1,"[('EDM', 1)]",False
+Grabbitz,3,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Grace Jones,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Gracie Abrams,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Grafh,3,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 1)]",False
+Graham Phillips,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Graph,1,,,0,[],False
+Grav,1,,,0,[],False
+Green Day,1,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+Greyskull,2,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Griminal,4,,Pop,1,"[('Pop', 1)]",False
+Griselda,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Groove Armada,3,,EDM,1,"[('EDM', 1)]",False
+Grupo Extra,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Grupo Frontera,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('Latin Pop', 1)]",False
+Grupo Galé,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Grupo Límite,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Gucci Mane,26,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 4), ('Pop', 3), ('Funk', 1), ('Pop Rock', 1)]",False
+Gudda Gudda,18,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 1)]",False
+Gunna,11,,R&B,2,"[('R&B', 2), ('Pop', 1), ('EDM', 1), ('Hip-Hop', 1)]",False
+Gunplay,14,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Guru Josh Project,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Guru Randhawa,17,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Gustavo Cerati,4,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Gwen Stefani,5,,EDM,1,"[('EDM', 1), ('Pop', 1), ('Dance', 1), ('Hip-Hop', 1), ('Pop Rock', 1)]",False
+G‐Eazy,10,,EDM,1,"[('EDM', 1), ('Reggaeton', 1)]",False
+G‐Unit,5,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+H.E.R.,3,,Pop Rock,2,"[('Pop Rock', 2), ('Alternative', 1), ('Pop', 1)]",False
+H.O.P.E.,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+HAIM,2,,Pop,1,"[('Pop', 1), ('Country', 1), ('EDM', 1)]",False
+HARDY,2,,EDM,1,"[('EDM', 1)]",False
+HAUSER,3,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+HEADER,5,,EDM,2,"[('EDM', 2), ('Pop', 1), ('Dance', 1)]",False
+HUGEL,12,,EDM,1,"[('EDM', 1), ('Pop', 1), ('Reggaeton', 1)]",False
+HUNTR/X,5,,EDM,1,"[('EDM', 1)]",False
+HWASA,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Hailie Jade,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Haipa,3,,EDM,1,"[('EDM', 1)]",False
+Halsey,4,Pop,Pop,2,"[('Pop', 2), ('R&B', 2), ('EDM', 1)]",True
+Hanging Dong,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Hans Zimmer,10,,Pop,1,"[('Pop', 1), ('Dance', 1), ('EDM', 1), ('Hip-Hop', 1)]",False
+Hanumankind,3,,Pop,1,"[('Pop', 1)]",False
+Harald Revery,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Hard Rock Sofa,8,,EDM,1,"[('EDM', 1)]",False
+Hardwell,22,,EDM,2,"[('EDM', 2), ('Pop Rock', 2), ('Alternative', 1), ('Pop', 1), ('Reggaeton', 1)]",False
+Harold Faltermeyer,3,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Harrison,2,,EDM,1,"[('EDM', 1)]",False
+Harry Diamond,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Harry Styles,6,Pop,Pop,3,"[('Pop', 3), ('Dance', 1)]",True
+Harvey Fierstein,9,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Havana Brown,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Hayley Williams,5,,Pop,1,"[('Pop', 1), ('Country', 1), ('Hip-Hop', 1)]",False
+Hazey Eyes,1,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+Headie One,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Heckler,12,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Heidi Gardner,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Helluva,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Henry Fong,5,,EDM,1,"[('EDM', 1)]",False
+Hey López,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Heymous Molly,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+High Park,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Hiroyuki,6,,EDM,1,"[('EDM', 1)]",False
+Hitmaka,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Latin Pop', 1)]",False
+Hitta J3,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Hittman,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Holly Macve,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Hombres G,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Honey Dijon,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Honorabel,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Honorebel,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Hood Guy,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Hoodie Allen,1,,Pop,1,"[('Pop', 1)]",False
+Hot Dolla,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Hot Karl,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Hot Rod,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Huglife,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Human X,9,,EDM,1,"[('EDM', 1)]",False
+Hurricane Chris,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Hurts,2,,EDM,1,"[('EDM', 1)]",False
+Hus Kingpin,1,,Pop,1,"[('Pop', 1)]",False
+Hush,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Hypaton,6,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Hype Active,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Häzel,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Héctor el Father,2,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+I-Octane,5,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+IAmChino,34,,Hip-Hop,2,"[('Hip-Hop', 2), ('Reggaeton', 1), ('Latin Pop', 1)]",False
+INNA,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+IVE,1,,EDM,1,"[('EDM', 1)]",False
+IZA,3,,EDM,1,"[('EDM', 1)]",False
+Iamkeynotes,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Iamsu!,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Ice Cube,14,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Pop', 1)]",False
+Ice Spice,3,,Pop,1,"[('Pop', 1), ('Country', 1), ('EDM', 1)]",False
+Idina Menzel,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Idris Elba,2,,EDM,1,"[('EDM', 1)]",False
+Iggy Azalea,6,,Pop,3,"[('Pop', 3), ('Dance', 2), ('Reggaeton', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Imagine Dragons,2,Pop Rock,Reggaeton,1,"[('Reggaeton', 1), ('Hip-Hop', 1)]",True
+Iman Omari,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Imanbek,4,,EDM,1,"[('EDM', 1)]",False
+Imani Selina,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Imen Siar,3,,EDM,1,"[('EDM', 1)]",False
+Imran Khan,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Ina Wroldsen,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Indecent Noise,7,,EDM,1,"[('EDM', 1)]",False
+India Martínez,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Indigenous Tribe,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Indio,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Infamous Syndicate,1,,,0,[],False
+Infared,5,,EDM,1,"[('EDM', 1)]",False
+Ink,2,,R&B,2,"[('R&B', 2), ('Pop', 1)]",False
+Inner Circle,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Isaiah Rashad,8,,R&B,1,"[('R&B', 1), ('Hip-Hop', 1)]",False
+Isreal Boyd,2,,,0,[],False
+Ivan Gough,12,,EDM,1,"[('EDM', 1), ('Dancehall', 1), ('Pop', 1), ('Dance', 1)]",False
+Ivete Sangalo,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Ivy Queen,4,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Iyaz,2,,Pop,2,"[('Pop', 2), ('R&B', 2)]",False
+Izza Kizza,1,,EDM,1,"[('EDM', 1)]",False
+Izzy Bizu,2,,EDM,1,"[('EDM', 1)]",False
+J Balvin,266,Reggaeton,Pop,9,"[('Pop', 9), ('Reggaeton', 8), ('R&B', 6), ('Hip-Hop', 5), ('Pop Rock', 2)]",True
+J Givens,3,,Pop,1,"[('Pop', 1)]",False
+J Hus,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Pop', 1)]",False
+J Tobone,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+J Álvarez,8,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+J'Lyn,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+J-Rock,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+J-Status,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+J. Cole,26,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop Rock', 2), ('R&B', 1), ('Alternative', 1)]",False
+J. Ivy,5,,,0,[],False
+J.J. Fad,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+J.Period,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+J.U.S.T.I.C.E. League,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+J.V.,12,,,0,[],False
+JAAS,3,,,0,[],False
+JAMIE,3,,EDM,1,"[('EDM', 1)]",False
+JAY‐Z,99,,Hip-Hop,7,"[('Hip-Hop', 7), ('R&B', 4), ('Pop', 2), ('Pop Rock', 1), ('Alternative', 1)]",False
+JC Reyes,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+JD Davis,3,,EDM,1,"[('EDM', 1)]",False
+JD Era,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+JDiggz,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+JEBII,2,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Alternative Pop', 1)]",False
+JENNIE,3,K‑Pop,Pop,2,"[('Pop', 2), ('Dance', 1), ('R&B', 1)]",True
+JHart,1,,EDM,1,"[('EDM', 1)]",False
+JID,2,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Hip-Hop', 1)]",False
+JLS,12,,R&B,3,"[('R&B', 3), ('Pop', 2), ('EDM', 1), ('Hip-Hop', 1)]",False
+JLo,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+JNan,2,,,0,[],False
+JP Cooper,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+JPEGMAFIA,3,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+JR,5,,,0,[],False
+JV,3,,,0,[],False
+JYJ,2,,,0,[],False
+JYTR,2,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Dance', 1)]",False
+Ja Rule,28,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1)]",False
+JaVonté,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jaci Velasquez,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Jack Antonoff,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Jack Back,7,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Jack Harlow,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Jack Uzi,1,,EDM,1,"[('EDM', 1)]",False
+Jack White,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jack Ü,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jackie Moore,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jacki‐O,13,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jacknife Lee,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jacob Collier,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Jacob Forever,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jacques Loussier,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jacuzzi,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Jadakiss,53,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 2), ('Latin Pop', 1)]",False
+Jaden,6,,Pop,2,"[('Pop', 2), ('Hip-Hop', 2), ('R&B', 1), ('Reggaeton', 1)]",False
+Jaden Bojsen,5,,EDM,1,"[('EDM', 1)]",False
+Jae Millz,9,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 1)]",False
+Jaeson Ma,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Jagged Edge,3,,,0,[],False
+Jah Free,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jai Paul,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+James Blake,9,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 2)]",False
+James Brown,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+James Carter,3,,EDM,1,"[('EDM', 1)]",False
+James Corden,9,,Pop,1,"[('Pop', 1)]",False
+James Fauntleroy,12,,R&B,2,"[('R&B', 2), ('Hip-Hop', 2)]",False
+James Hype,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+James Perry,1,,EDM,1,"[('EDM', 1)]",False
+Jamie Drastik,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jamie Foxx,15,,R&B,3,"[('R&B', 3), ('Latin Pop', 2), ('Hip-Hop', 2), ('Pop', 1), ('Pop Rock', 1)]",False
+Jamie Lawson,1,,Pop,1,"[('Pop', 1)]",False
+Jamie N Commons,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jamie Scott,3,,EDM,1,"[('EDM', 1)]",False
+Jamiroquai,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Janet Jackson,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jann Arden,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jantony,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Jarreau Vandal,4,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1)]",False
+Jarvis,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jase Thirlwall,7,,EDM,1,"[('EDM', 1)]",False
+Jasha,1,,,0,[],False
+Jasmin,5,,Pop,4,"[('Pop', 4), ('Alternative', 1), ('Country', 1), ('Dance', 1), ('R&B', 1)]",False
+Jasmine V,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jason Derulo,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('EDM', 1), ('Latin Pop', 1)]",False
+Jason Eric,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Jason Mraz,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Jason Rooney,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jasper Randall,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Jax Jones,8,,Pop,2,"[('Pop', 2), ('R&B', 1)]",False
+Jay & El Punto,6,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Jay 626,2,,Pop,1,"[('Pop', 1), ('Alternative', 1), ('R&B', 1)]",False
+Jay Electronica,12,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Jay Hardway,3,,,0,[],False
+Jay Rock,58,,Hip-Hop,4,"[('Hip-Hop', 4), ('Latin Pop', 1), ('R&B', 1)]",False
+Jay Sean,17,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 3), ('Pop', 1), ('EDM', 1), ('Latin Pop', 1)]",False
+Jay Wheeler,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+JayKae,3,,Pop,1,"[('Pop', 1)]",False
+Jayda G,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Jaye,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Jaykay,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jayko,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Jaymes Young,3,,EDM,1,"[('EDM', 1)]",False
+Jayo Felony,15,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jazmine Sullivan,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jean Dawson,1,,R&B,1,"[('R&B', 1)]",False
+Jean‐Michel Jarre,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Jean‐Roch,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jeen,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jeezy,33,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 4), ('Pop', 1)]",False
+Jeff Bass,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jeff Doubleu,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Jeff Goldblum,7,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jelly Roll,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('Alternative Pop', 1)]",False
+Jencarlos Canela,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jenna Boyd,5,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jennifer Hudson,6,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Jennifer Lawrence,2,,,0,[],False
+Jennifer Lopez,80,,Pop,8,"[('Pop', 8), ('R&B', 5), ('Hip-Hop', 5), ('Latin Pop', 2), ('Funk', 1)]",False
+Jeon,6,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Jeremih,19,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 2), ('EDM', 1), ('Pop', 1), ('Reggaeton', 1)]",False
+Jeremy Green,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jeremy Greene,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jermaine Dupri,10,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jerry Wallis,1,,Pop,1,"[('Pop', 1)]",False
+Jeru the Damaja,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jess Glynne,10,,Pop,2,"[('Pop', 2), ('EDM', 1), ('R&B', 1)]",False
+Jesse,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Jesse & Joy,18,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1)]",False
+Jesse Boykins III,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Jessi,2,,Pop,1,"[('Pop', 1)]",False
+Jessica Jarrell,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jessica Mauboy,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jessica Shores,1,,,0,[],False
+Jessica Sutta,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jessie J,10,,Pop,3,"[('Pop', 3), ('R&B', 2), ('EDM', 2), ('Hip-Hop', 1)]",False
+Jessie Reyez,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1), ('Soul', 1), ('EDM', 1)]",False
+Jessikita,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Jewelz & Sparks,8,,EDM,1,"[('EDM', 1), ('Reggaeton', 1)]",False
+Je’kob,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Jhayco,8,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 2)]",False
+Jhené Aiko,5,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 1)]",False
+Jhonny Rivera,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Jidenna,4,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1)]",False
+Jim Jones,41,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1), ('R&B', 1)]",False
+Jiminy Hop,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Jimmie Allen,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jimmy Fallon,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jimmy James,6,,EDM,1,"[('EDM', 1)]",False
+Jme,1,,Pop,1,"[('Pop', 1)]",False
+Joachim Garraud,18,,EDM,1,"[('EDM', 1)]",False
+Joaquin Phoenix,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Joe Banga,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Joe Budden,6,,Hip-Hop,3,"[('Hip-Hop', 3)]",False
+Joe Fox,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Joe Perry,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Joel Corry,3,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Joel Fletcher,3,,,0,[],False
+Joell Ortiz,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Joey Bada$$,8,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Joey Negro,3,,EDM,1,"[('EDM', 1)]",False
+John Farnham,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+John Larner,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+John Legend,47,,Pop,4,"[('Pop', 4), ('R&B', 3), ('EDM', 2), ('Hip-Hop', 1), ('Rock', 1)]",False
+John Martin,2,,EDM,1,"[('EDM', 1)]",False
+John Mayer,4,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+John Newman,14,,EDM,2,"[('EDM', 2)]",False
+John Paul White,2,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+John Powell,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+John Ryan,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Johnny Orlando,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Joji,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jon B.,3,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Jon Batiste,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Jon Connor,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jon Hamm,14,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Dance', 1)]",False
+Jon Hopkins,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Jon Secada,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Jon Z,5,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Jonah Hill,14,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Dance', 1)]",False
+Jonas Brothers,3,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Funk', 1)]",False
+Jonathan Bailey,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jonathan Emile,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Jonita Gandhi,1,,Pop,1,"[('Pop', 1)]",False
+Jordin Sparks,8,,R&B,3,"[('R&B', 3), ('Pop', 2), ('Hip-Hop', 1)]",False
+Jorge Gómez,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jorge Hernández,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Jorja Smith,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('EDM', 1)]",False
+Jory Boy,7,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Joseph James,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Josh Ramsey,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+José Feliciano,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+José José,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+José Luis Rodríguez,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+José Mercé,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Jowell,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Jowell & Randy,9,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1)]",False
+Joy Denalane,2,,,0,[],False
+Joy Williams,2,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Joyner Lucas,10,,Pop,1,"[('Pop', 1), ('Reggaeton', 1), ('Hip-Hop', 1)]",False
+Jozzy,2,,EDM,1,"[('EDM', 1)]",False
+Jp,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Juan Gabriel,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Juan Luis Guerra,47,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Juan Magán,10,,Hip-Hop,2,"[('Hip-Hop', 2), ('Reggaeton', 2), ('Latin Pop', 1)]",False
+Juanes,35,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Juanka,7,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Juany Bravo,5,,EDM,1,"[('EDM', 1)]",False
+Judah Smith,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Juelz Santana,25,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Juhn,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Juice WRLD,7,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Hip-Hop', 1), ('Pop Rock', 1)]",False
+Juicy J,28,,Hip-Hop,6,"[('Hip-Hop', 6), ('Pop', 5), ('R&B', 4), ('Latin Pop', 1)]",False
+Jules Halpern,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Julia Michaels,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Pop Rock', 1)]",False
+Julia Wolf,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Julian Casablancas,14,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Dance', 1)]",False
+Julie Bergan,3,,EDM,1,"[('EDM', 1)]",False
+Julie McKnight,3,,EDM,1,"[('EDM', 1)]",False
+Juliet,1,,EDM,1,"[('EDM', 1)]",False
+Julieta Venegas,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Julio G,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Julión Álvarez,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Jump Smokers,13,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Jungle Brothers,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Jus Jack,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Jussie Smollett,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Just Blaze,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Just Brothers,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Justice,20,,Pop,2,"[('Pop', 2), ('R&B', 2), ('EDM', 1)]",False
+Justin Bieber,196,"Pop, R&B",Pop,10,"[('Pop', 10), ('R&B', 7), ('Hip-Hop', 7), ('Reggaeton', 3), ('EDM', 3)]",True
+Justin Quiles,9,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1)]",False
+Justin Timberlake,42,"Pop, R&B",R&B,5,"[('R&B', 5), ('Pop', 4), ('Hip-Hop', 2), ('Funk', 1), ('Latin Pop', 1)]",True
+Justin Vernon,2,,,0,[],False
+Justus,8,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1)]",False
+Jutha,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Jutha & Small,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Juvenile,13,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1), ('R&B', 1)]",False
+J‐Black,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+J‐Hood,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+K$upreme,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+K-Leah,2,,EDM,1,"[('EDM', 1)]",False
+K-Love,3,,,0,[],False
+K-Ra,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+K.K. Bediya,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+KABU,14,,EDM,1,"[('EDM', 1)]",False
+KARA,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+KAROL G,20,Reggaeton,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2), ('Latin Pop', 2), ('Hip-Hop', 1)]",True
+KAS,1,,R&B,1,"[('R&B', 1)]",False
+KASIA,4,,EDM,1,"[('EDM', 1)]",False
+KC Rebell,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+KEVVO,3,,Reggaeton,2,"[('Reggaeton', 2)]",False
+KHEA,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+KIRBY,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+KPop Demon Hunters Cast,5,,EDM,1,"[('EDM', 1)]",False
+KRS‐One,16,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+KSHMR,9,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+KUČKA,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+KXNG Crooked,7,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Kabu Kabu,5,,EDM,1,"[('EDM', 1)]",False
+Kacey Musgraves,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Kagwe,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Kaja Czulewicz,4,,Pop,2,"[('Pop', 2), ('R&B', 2)]",False
+Kalenna,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Kali Uchis,2,,R&B,1,"[('R&B', 1)]",False
+Kamaiyah,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Kanjia,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kap Slap,17,,Pop,2,"[('Pop', 2), ('R&B', 1), ('EDM', 1), ('Country', 1), ('Pop Rock', 1)]",False
+Karan Aujla,1,,Pop,1,"[('Pop', 1)]",False
+Kardinal Offishall,11,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Hip-Hop', 2), ('Dance', 1), ('Latin Pop', 1)]",False
+Karma,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Karmin,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Kasabian,1,,EDM,1,"[('EDM', 1)]",False
+Kash Doll,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kastro,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kat Krazy,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Kat Williams,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kate McKinnon,3,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+Katy Perry,26,Pop,Pop,6,"[('Pop', 6), ('EDM', 2), ('R&B', 2), ('Latin Pop', 1), ('Hip-Hop', 1)]",True
+Kavinsky,3,,EDM,1,"[('EDM', 1), ('R&B', 1), ('Pop', 1)]",False
+KayCyy,13,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Hip-Hop', 2)]",False
+Kaz James,1,,EDM,1,"[('EDM', 1)]",False
+Kehlani,12,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 2), ('R&B', 2), ('EDM', 2)]",False
+Keith Mansfield,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Keith Murray,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Keith Urban,4,,Pop,1,"[('Pop', 1), ('Country', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Keke Palmer,5,,R&B,2,"[('R&B', 2), ('Pop', 1), ('Funk', 1)]",False
+Kelis,22,,Hip-Hop,3,"[('Hip-Hop', 3), ('EDM', 2), ('R&B', 2), ('Latin Pop', 1), ('Pop', 1)]",False
+Kelly,3,,R&B,2,"[('R&B', 2), ('Pop', 1), ('Hip-Hop', 1)]",False
+Kelly Brook,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Kelly Clarkson,2,,Pop,2,"[('Pop', 2), ('Dance', 1), ('R&B', 1)]",False
+Kelly Rowland,11,,EDM,1,"[('EDM', 1), ('Pop', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kelmitt,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Ken-Y,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kenan Thompson,17,,Pop,4,"[('Pop', 4), ('R&B', 3), ('Dance', 1), ('Alternative', 1)]",False
+Kendall Morgan,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kendji Girac,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Kendo Kaponi,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Kendrick Lamar,381,Hip-Hop,Pop,12,"[('Pop', 12), ('Hip-Hop', 11), ('R&B', 9), ('Pop Rock', 2), ('EDM', 2)]",True
+Kenna,2,,,0,[],False
+Kenny Chesney,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Kenny G,7,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Dance', 1)]",False
+Kenza Farah,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Keri Hilson,5,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Kesha,20,Pop,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 2), ('Pop', 2), ('Dance', 1), ('EDM', 1)]",True
+Keshia Chanté,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Kevin Cossom,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Kevin Gates,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kevin Roldán,14,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1)]",False
+Kevin Rudolf,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kevin o Chris,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Keyshia Cole,5,,,0,[],False
+Khaled,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Khalid,19,R&B,Pop,5,"[('Pop', 5), ('R&B', 2), ('EDM', 2), ('Hip-Hop', 2), ('Alternative', 1)]",True
+Khayree,2,,,0,[],False
+Khelani,3,,EDM,1,"[('EDM', 1)]",False
+Kibou,2,,Alternative,1,"[('Alternative', 1)]",False
+Kid Cudi,66,,Hip-Hop,5,"[('Hip-Hop', 5), ('Pop', 5), ('R&B', 4), ('Latin Pop', 2), ('EDM', 2)]",False
+Kid Rock,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kid Sister,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kidd Kidd,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Kideko,7,,EDM,2,"[('EDM', 2), ('Pop', 1), ('Dance', 1)]",False
+Kidz in the Hall,1,,,0,[],False
+Kieron Menzies,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Kiesza,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kiiara,3,,EDM,1,"[('EDM', 1)]",False
+Kiko,3,,EDM,1,"[('EDM', 1)]",False
+KillaGraham,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Killah Priest,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Killer,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Killer Mike,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Kim Mathers,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kim Petras,1,,EDM,1,"[('EDM', 1)]",False
+King Blow,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('Pop', 1)]",False
+King Combs,3,,,0,[],False
+King Esko,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+King Green,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+King Kosa,4,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+King Los,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+King Louie,1,,,0,[],False
+King Reign,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+King Sun,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kingdom,1,,R&B,1,"[('R&B', 1)]",False
+Kirk Franklin,2,,,0,[],False
+Kittin,2,,EDM,1,"[('EDM', 1)]",False
+Kitty Kat,4,,Hip-Hop,3,"[('Hip-Hop', 3)]",False
+Knife Party,6,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1), ('Pop Rock', 1), ('Alternative', 1)]",False
+Knoc‐Turn’Al,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Knowa Knowone,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kobe,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Kobe Honeycutt,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kodak Black,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Koni,1,,Pop,1,"[('Pop', 1)]",False
+Kontra K,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Kool & the Gang,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kool G Rap,9,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kore,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kore‐G,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Kori Withers,2,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Korn,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Kraftwerk,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Kranium,2,,Pop,1,"[('Pop', 1)]",False
+Krayzie Bone,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Krept & Konan,1,,Pop,1,"[('Pop', 1)]",False
+Kris R,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Kris Stephens,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kristen Wiig,14,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Dance', 1)]",False
+Kristin Chenoweth,12,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Krizz Kaliko,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Krunk!,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Reggaeton', 1), ('Latin Trap', 1)]",False
+Krupa,5,,EDM,1,"[('EDM', 1)]",False
+Kumasi,4,,,0,[],False
+Kumbia Kings,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kungs,2,,EDM,1,"[('EDM', 1)]",False
+Kuniva,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kurse,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kurupt,30,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1)]",False
+Kush Kloud Klan,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Kwest Tha Madd Lad,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Kybba,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Kygo,5,,Pop,3,"[('Pop', 3), ('Dance', 1), ('Pop Rock', 1), ('Alternative', 1)]",False
+Kyla,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Kylie Minogue,44,,Pop,12,"[('Pop', 12), ('R&B', 3), ('Hip-Hop', 2), ('Dance', 2), ('Latin Pop', 1)]",False
+Kyoko,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Ky‐Mani Marley,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Kölsch,2,,Pop,2,"[('Pop', 2), ('R&B', 2)]",False
+K‐Boy,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+K‐Ci,3,,,0,[],False
+K‐Young,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+K’naan,2,,EDM,1,"[('EDM', 1)]",False
+L'ADLD,1,,EDM,1,"[('EDM', 1)]",False
+LDA,5,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+LEBRONDAKID,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+LISA,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+LL Cool J,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+LMFAO,54,,Pop,8,"[('Pop', 8), ('R&B', 4), ('Hip-Hop', 3), ('EDM', 2), ('Latin Pop', 1)]",False
+LSP,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+LUDMILLA,3,,EDM,1,"[('EDM', 1)]",False
+La Bouche,2,,EDM,1,"[('EDM', 1)]",False
+La Fouine,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+La Ley,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+La Oreja de Van Gogh,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+La Perversa,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+La Roux,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+LaToiya Williams,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Labi Siffre,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Labrinth,7,,Hip-Hop,2,"[('Hip-Hop', 2), ('Pop', 2), ('R&B', 1)]",False
+LadBaby,2,,Pop,2,"[('Pop', 2), ('Rock', 1)]",False
+Lady A,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Lady Gaga,167,"Pop, Dance",Pop,18,"[('Pop', 18), ('R&B', 10), ('Hip-Hop', 4), ('EDM', 2), ('Rock', 2)]",True
+Lady Saw,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Ladysmith Black Mambazo,4,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Laidback Luke,15,,EDM,2,"[('EDM', 2)]",False
+Lalo Ebratt,11,,EDM,1,"[('EDM', 1), ('Reggaeton', 1)]",False
+Lamaita,2,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Lana Del Rey,74,Alternative Pop,Pop,8,"[('Pop', 8), ('Hip-Hop', 6), ('R&B', 3), ('Latin Pop', 1), ('EDM', 1)]",True
+Lance Skiiiwalker,6,,R&B,1,"[('R&B', 1), ('Hip-Hop', 1)]",False
+Lane 8,1,,EDM,1,"[('EDM', 1)]",False
+Lang Lang,4,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Lanie Gardner,2,,EDM,1,"[('EDM', 1)]",False
+Lao,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+"Larry Hoover, Jr.",6,,,0,[],False
+Larry Tee,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Lary Over,25,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 2), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Lateef,4,,,0,[],False
+Latto,6,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1), ('R&B', 1), ('Pop Rock', 1)]",False
+Laura Pausini,22,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Lauren Bennett,33,,Pop,7,"[('Pop', 7), ('R&B', 4), ('Hip-Hop', 2), ('Latin Pop', 1), ('Dance', 1)]",False
+Lauren Walters,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Laurent Simeca,5,,EDM,1,"[('EDM', 1)]",False
+Lauryn Hill,2,,,0,[],False
+Laws,9,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1)]",False
+Layzie Bone,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Le Berger,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Lea,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Lea Michele,6,,Pop,2,"[('Pop', 2), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Led Zeppelin,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Left at London,4,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Country', 1)]",False
+Lefty GunPlay,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Lele,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Lenier,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Lennox,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Lenny Kravitz,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Lenny Tavárez,4,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Leon Bolier,4,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Leon Thomas,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Leona Lewis,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Leto,1,,Pop,1,"[('Pop', 1)]",False
+Lewi White,4,,Pop,1,"[('Pop', 1)]",False
+Lewis Dene,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Lewis Thompson,2,,EDM,1,"[('EDM', 1)]",False
+LiSA,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Liam Payne,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Like Mike,4,,EDM,1,"[('EDM', 1)]",False
+Lil B,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Lil Baby,24,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 2), ('Pop', 2), ('Reggaeton', 1)]",False
+Lil Dicky,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Lil Durk,12,,EDM,2,"[('EDM', 2), ('Hip-Hop', 2), ('R&B', 1)]",False
+Lil Jon,48,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 2), ('Reggaeton', 2), ('Pop', 1), ('Funk', 1)]",False
+Lil Jon & The East Side Boyz,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Lil K,3,,,0,[],False
+Lil Louie,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Lil Mama,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Lil Mosquito Disease,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Pop', 1), ('Alternative', 1)]",False
+Lil Peep,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Lil Pump,2,,,0,[],False
+Lil Rake,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Lil Reese,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Lil Scrappy,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Lil Silva,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Lil Silvio,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Lil Tecca,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Lil Uzi Vert,15,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Hip-Hop', 2), ('Reggaeton', 1), ('Latin Trap', 1)]",False
+Lil Wayne,132,Hip-Hop,Pop,9,"[('Pop', 9), ('R&B', 9), ('Hip-Hop', 7), ('Latin Pop', 2), ('Pop Rock', 2)]",True
+Lil Yachty,9,,EDM,1,"[('EDM', 1), ('Pop', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Lily Kershaw,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Lily‐Rose Depp,3,,K‑Pop,1,"[('K‑Pop', 1), ('R&B', 1), ('Pop', 1)]",False
+Lil’ Flip,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Lil’ Kim,6,,Hip-Hop,2,"[('Hip-Hop', 2), ('Pop', 1), ('R&B', 1), ('Latin Pop', 1)]",False
+Limi,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Limp Bizkit,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Lina Morgana,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Linkin Park,5,Alternative Rock,Hip-Hop,2,"[('Hip-Hop', 2), ('Pop', 1), ('R&B', 1)]",True
+Lit Killah,3,,EDM,1,"[('EDM', 1)]",False
+Lito Kirino,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Lito MC Cassidy,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Little Brother,7,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Little Dragon,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Little Mix,13,,Pop,5,"[('Pop', 5), ('R&B', 2), ('EDM', 2), ('Dance', 1), ('Hip-Hop', 1)]",False
+Little Simz,5,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Livin’ Joy,17,,Pop,5,"[('Pop', 5), ('Dance', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Livvi Franc,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Liz Gillies,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Liz Rodrigues,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Liz Rodriguez,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Liza Quin,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Lizzo,2,,R&B,2,"[('R&B', 2), ('Pop', 1)]",False
+Lloyd,11,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 2), ('Pop', 1), ('Latin Pop', 1)]",False
+Lloyd Banks,19,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Logic,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+London Symphony Orchestra,3,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+Loon,4,,R&B,1,"[('R&B', 1), ('Hip-Hop', 1)]",False
+Loote,2,,EDM,1,"[('EDM', 1)]",False
+Lorde,5,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Country', 1), ('Hip-Hop', 1)]",False
+Loreen,2,,EDM,1,"[('EDM', 1)]",False
+Lorne Balfe,3,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Los Pleneros de la Cresta,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Los Tigres del Norte,45,,Latin Pop,1,"[('Latin Pop', 1), ('Reggaeton', 1)]",False
+Los Unidades,5,,EDM,1,"[('EDM', 1)]",False
+Los Zuperiores,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Lost Frequencies,2,,,0,[],False
+Lotus,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Loud Luxury,4,,Pop,1,"[('Pop', 1), ('Country', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Louis BPM,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Louis Tomlinson,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Louisa,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+LoveRance,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Lovespeake,2,,EDM,1,"[('EDM', 1)]",False
+Luar la L,2,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Luccas Neto,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Lucenzo,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Lucía Méndez,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Ludacris,31,,Hip-Hop,6,"[('Hip-Hop', 6), ('R&B', 4), ('Pop', 2), ('Latin Pop', 1), ('Dancehall', 1)]",False
+Luigi 21 Plus,4,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Luis Fonsi,45,,Latin Pop,1,"[('Latin Pop', 1), ('Reggaeton', 1), ('Pop', 1), ('R&B', 1)]",False
+Luke,10,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Luke Bryan,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Luke Combs,1,,Pop,1,"[('Pop', 1)]",False
+Lumidee,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1), ('Country', 1)]",False
+Lunay,2,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+LunchMoney Lewis,3,,Pop Rock,1,"[('Pop Rock', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Lune,3,,EDM,1,"[('EDM', 1)]",False
+Lupe Fiasco,30,,Pop,4,"[('Pop', 4), ('Hip-Hop', 3), ('R&B', 2), ('Funk', 1)]",False
+Luxtides,2,,EDM,1,"[('EDM', 1)]",False
+Lykke Li,5,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Lyrical Lemonade,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Lyrics Born,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+L∆VINCi,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+M. Taji,3,,,0,[],False
+M.A.D. Bass,6,,Reggaeton,1,"[('Reggaeton', 1)]",False
+M.I.A.,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Pop', 1)]",False
+M.O.,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+M83,1,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+MACHETE CREW,5,,Reggaeton,1,"[('Reggaeton', 1)]",False
+MAGIC!,4,,EDM,1,"[('EDM', 1), ('Latin Pop', 1)]",False
+MAJ,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+MAKJ,13,,EDM,1,"[('EDM', 1), ('Pop', 1), ('Pop Rock', 1)]",False
+MC Eiht,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+MC Fioti,9,,Hip-Hop,1,"[('Hip-Hop', 1), ('Reggaeton', 1)]",False
+MC Jin,1,,,0,[],False
+MC Ride,2,,,0,[],False
+MC Yaguar228,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+MEDUZA,3,,EDM,1,"[('EDM', 1)]",False
+MF DOOM,5,,,0,[],False
+MIKA,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+MJG,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+MK,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('EDM', 1), ('Pop', 1)]",False
+MNEK,6,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+MONSTA X,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+MORTEN,23,,Pop,2,"[('Pop', 2), ('R&B', 1), ('EDM', 1)]",False
+Mabel,2,,Pop,2,"[('Pop', 2), ('R&B', 1)]",False
+Mac Dre,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mac Miller,15,,R&B,3,"[('R&B', 3), ('Pop', 2), ('Alternative Pop', 1), ('Hip-Hop', 1), ('Pop Rock', 1)]",False
+Mac Rockelle,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Macaco,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Machel Montano,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1), ('R&B', 1)]",False
+Mack 10,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mack Maine,9,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 1)]",False
+Macklemore & Ryan Lewis,4,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Macy Gray,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Maddie Baillio,9,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Maddix,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+MadeinTYO,4,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Madeon,3,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Madison Beer,2,,Pop,1,"[('Pop', 1), ('Dance', 1), ('EDM', 1)]",False
+Madison Love,3,,EDM,1,"[('EDM', 1)]",False
+Madonna,30,Pop,Pop,8,"[('Pop', 8), ('Hip-Hop', 6), ('R&B', 4), ('Dance', 2), ('Latin Pop', 1)]",True
+Mae Muller,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Maejor,11,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Maffio,3,,EDM,1,"[('EDM', 1), ('Pop Rock', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Magic,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Majestic,2,,Pop,1,"[('Pop', 1)]",False
+Majewski,4,,EDM,1,"[('EDM', 1)]",False
+Majid Jordan,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Major James,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Major Lazer,27,,Pop,4,"[('Pop', 4), ('R&B', 4), ('Reggaeton', 2), ('EDM', 2), ('Hip-Hop', 2)]",False
+Makassy,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Makeba,1,,EDM,1,"[('EDM', 1)]",False
+Mala Rodríguez,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Malice,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Malik,2,,,0,[],False
+Malik Yusef,35,,,0,[],False
+Mally Mall,4,,EDM,1,"[('EDM', 1)]",False
+Malugi,2,,EDM,1,"[('EDM', 1)]",False
+Maluma,22,Reggaeton,Reggaeton,4,"[('Reggaeton', 4), ('Latin Trap', 1), ('Latin Pop', 1), ('R&B', 1), ('Pop', 1)]",True
+Malú,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Mambo Kingz,13,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2)]",False
+Mani Hoffman,10,,EDM,1,"[('EDM', 1)]",False
+Mann,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Manny X,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Manuel Carrasco,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Manuel Turizo,10,,EDM,1,"[('EDM', 1), ('Latin Pop', 1)]",False
+Maná,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Marc Anthony,5,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Marcel Woods,4,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Marciano Cantero,2,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Marco Antonio Solís,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Marco V,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Maren Morris,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Mariah,4,,Pop,2,"[('Pop', 2), ('R&B', 2)]",False
+Mariah Angeliq,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Mariah Carey,15,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Latin Pop', 1), ('Pop Rock', 1)]",False
+Marie-Mai,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Marilyn Manson,4,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Hip-Hop', 1)]",False
+Marissa Bode,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Marjorie Grande,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Mark B,12,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Mark Bass,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mark Roberts,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Mark Ronson,13,,Pop,4,"[('Pop', 4), ('R&B', 2), ('Funk', 1), ('Dance', 1)]",False
+Mark Spitz,1,,,0,[],False
+Marlon Hoffstadt,2,,EDM,1,"[('EDM', 1)]",False
+Maroon 5,83,Pop Rock,Hip-Hop,8,"[('Hip-Hop', 8), ('R&B', 5), ('Pop', 4), ('EDM', 3), ('Latin Pop', 2)]",True
+Marsha Ambrosius,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Marshmello,3,EDM,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1), ('Pop Rock', 1)]",True
+Marta Sánchez,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Marten Hørger,1,,EDM,1,"[('EDM', 1)]",False
+Martin Danielle,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Martin Garrix,12,,EDM,1,"[('EDM', 1), ('R&B', 1), ('Pop', 1), ('Dance', 1)]",False
+Martin Johnson,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Martin Lawrence,1,,,0,[],False
+Martin Short,8,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Martin Solveig,27,,Pop,2,"[('Pop', 2), ('Hip-Hop', 1), ('Dance', 1), ('Dancehall', 1), ('EDM', 1)]",False
+Marvelous Macc Mello,2,,,0,[],False
+Marvin Gaye,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Mary J. Blige,19,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 3), ('Pop', 2), ('Latin Pop', 1), ('Pop Rock', 1)]",False
+Mary Magdalan,2,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Hip-Hop', 1)]",False
+Mary Mary,3,,,0,[],False
+María Becerra,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Mascarade,2,,,0,[],False
+Mase,10,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1), ('R&B', 1)]",False
+Mashonda,1,,,0,[],False
+Mason,2,,EDM,1,"[('EDM', 1)]",False
+Mason Ramsey,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Massive Attack,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Masta Ace,3,,R&B,1,"[('R&B', 1), ('Hip-Hop', 1)]",False
+Master Joe & O.G. Black,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Master KG,2,,EDM,1,"[('EDM', 1)]",False
+Master P,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Master Shortie,1,,Pop,1,"[('Pop', 1)]",False
+Matoma,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Matt Caseli,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Matt Maeson,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Matt Petrone,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Matt Sassari,4,,EDM,1,"[('EDM', 1)]",False
+Matthew Koma,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Maur,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Mausberg,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mavado,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Mawell,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Max B,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Max Elto,1,,EDM,1,"[('EDM', 1)]",False
+Max Graham,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Max Styler,3,,EDM,2,"[('EDM', 2)]",False
+MaxaMillion,5,,,0,[],False
+Max’C,1,,EDM,1,"[('EDM', 1)]",False
+Maya Jane Coles,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Mayer Hawthorne,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Mc Zaac,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+McClenney,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+MeLa Machinko,1,,,0,[],False
+Meanz of Operation,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Meek Demeo,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Meek Mill,23,,Pop,3,"[('Pop', 3), ('Hip-Hop', 2), ('R&B', 2), ('Reggaeton', 1)]",False
+Megan Moroney,1,,Pop,1,"[('Pop', 1)]",False
+Megan Nicole,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Megan Thee Stallion,6,,Pop,3,"[('Pop', 3), ('R&B', 2), ('Hip-Hop', 1), ('Dance', 1), ('Pop Rock', 1)]",False
+Meghan Trainor,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Mekhi Phifer,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mela,1,,,0,[],False
+Melanie Pfirrman,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Melina León,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Melissa Etheridge,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Mellow D,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Mel‐Man,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Memphis Bleek,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Mercedes Sosa,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Merzbow,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1)]",False
+Messiah,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Mesto,3,,,0,[],False
+Metallica,4,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 1)]",False
+Method Man,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Metro Boomin,15,Hip-Hop,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 2), ('Pop', 1), ('Reggaeton', 1)]",True
+Mez,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mi Casa,1,,EDM,1,"[('EDM', 1)]",False
+Mic Righteous,1,,Pop,1,"[('Pop', 1)]",False
+Michael Bolton,14,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Dance', 1)]",False
+Michael Bublé,34,,Latin Pop,1,"[('Latin Pop', 1), ('Pop', 1), ('R&B', 1)]",False
+Michael Calfan,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Michael Eavis,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Michael Jackson,24,"Pop, R&B",Hip-Hop,5,"[('Hip-Hop', 5), ('Pop', 4), ('Latin Pop', 1), ('R&B', 1), ('Dance', 1)]",True
+Michael Marshall,10,,EDM,1,"[('EDM', 1)]",False
+Michael McCorry Rose,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Michael Stipe,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Michael Woods,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Michael “5000” Watts,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Michaël Brun,4,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Michel Teló,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Mick Boogie,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mick Mazoo,2,,EDM,1,"[('EDM', 1)]",False
+Mickey Factz,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Mickey Guyton,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Microphone Tone,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Migos,12,,R&B,2,"[('R&B', 2), ('Pop', 1), ('EDM', 1), ('Hip-Hop', 1)]",False
+Miguel,17,,Hip-Hop,3,"[('Hip-Hop', 3), ('EDM', 2), ('R&B', 2), ('Pop', 1), ('Dance', 1)]",False
+Miguel Bosé,60,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Miguel Campbell,2,,EDM,1,"[('EDM', 1)]",False
+Mihau Lennon,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Mike Dean,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Mike Rutherford,4,,Pop,1,"[('Pop', 1)]",False
+Mike Taylor,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Mike WiLL Made‐It,11,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 3), ('Pop', 2)]",False
+Mikill Pane,1,,Pop,1,"[('Pop', 1)]",False
+Mikkey Halsted,2,,,0,[],False
+Mikky Ekko,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Miky Woodz,9,,Reggaeton,4,"[('Reggaeton', 4), ('Latin Trap', 1)]",False
+Mila J,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Milan Piqué Mebarak,2,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Miley Cyrus,12,Pop,Pop,5,"[('Pop', 5), ('R&B', 2), ('Hip-Hop', 1), ('Dance', 1), ('Alternative Pop', 1)]",True
+Miri Ben‐Ari,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Misha B,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Miss B,2,,EDM,1,"[('EDM', 1)]",False
+Miss Thing,1,,EDM,1,"[('EDM', 1)]",False
+Missy Elliott,15,,Pop,4,"[('Pop', 4), ('Hip-Hop', 3), ('R&B', 2), ('EDM', 1), ('Latin Pop', 1)]",False
+Mist,5,,,0,[],False
+MistaJam,2,,EDM,1,"[('EDM', 1)]",False
+Mistah F.A.B.,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mitski,2,,,0,[],False
+MoRuf,1,,R&B,1,"[('R&B', 1)]",False
+MoShadee,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Mobb Deep,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Moby,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Modest Mouse,1,,,0,[],False
+Modjo,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Moe Pope,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Mohombi,7,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Mokobé,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Molotov,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Momo Boyd,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Monica,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Monica Martin,2,,,0,[],False
+Monk.e,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Monkey Black,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Montana of 300,6,,Pop,1,"[('Pop', 1)]",False
+Moné,2,,EDM,1,"[('EDM', 1)]",False
+Moonphazes,4,,EDM,1,"[('EDM', 1)]",False
+Moptop,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Mora,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Morten Hampenberg & Alexander Brown,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Motiff,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Mozzy,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mr Eazi,2,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Mr Hudson,6,,,0,[],False
+Mr. Collipark,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Mr. Porter,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mr. Slaughter,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Mr. Thing,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Mr. Vegas,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+MrBeast,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Ms. Dynamite,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Mugeez,2,,Pop,1,"[('Pop', 1)]",False
+Muka,3,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Funk', 1)]",False
+Muni Long,1,,Pop,1,"[('Pop', 1)]",False
+Murda,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Murda Beatz,4,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Murphy Lee,14,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Murs,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Music De Wolfe,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Musicólogo & Menes,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Musiq Soulchild,10,,,0,[],False
+Mustard,6,,R&B,3,"[('R&B', 3), ('Pop', 2), ('Hip-Hop', 2)]",False
+Muzik Junkies,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Mxxnlight,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Myke Towers,4,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Mykestro,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Mykki Blanco,1,,,0,[],False
+Myleka,1,,,0,[],False
+Mystic,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Mystic Davis,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Mystikal,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+MØ,9,,Pop,3,"[('Pop', 3), ('Reggaeton', 2), ('R&B', 1), ('EDM', 1), ('Dance', 1)]",False
+N*E*R*D,11,,Hip-Hop,4,"[('Hip-Hop', 4), ('Pop', 2), ('R&B', 2)]",False
+N.A.S.A.,3,,,0,[],False
+N.O.R.E.,35,,Hip-Hop,2,"[('Hip-Hop', 2), ('Reggaeton', 2), ('Latin Pop', 1)]",False
+N.W.A,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+NAV,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+NEIKED,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+NERO,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+NERVO,5,,EDM,1,"[('EDM', 1)]",False
+NFL,2,,Latin Pop,1,"[('Latin Pop', 1)]",False
+NGHTMRE,4,,,0,[],False
+NJOMZA,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+NOTION,2,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+Nabiha,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nablidon,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Nacho,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Nadeska Alexis,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Nadia Ali,6,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nadia Rose,5,,Pop,1,"[('Pop', 1), ('Dance', 1), ('EDM', 1)]",False
+Najwa,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Naledge,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Napt,6,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Nas,58,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 3), ('Pop', 2), ('Latin Pop', 1)]",False
+Natalia Jiménez,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Natalia Kills,6,,EDM,1,"[('EDM', 1)]",False
+Natalia Szumpor,4,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Natalie Portman,14,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Dance', 1)]",False
+Natan & Shander,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Natanael Cano,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Nate Dogg,20,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Nate Ruess,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Nathan Sykes,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Natti Natasha,14,,Reggaeton,4,"[('Reggaeton', 4), ('EDM', 2), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nature,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Naughty Boy,1,,Pop,1,"[('Pop', 1)]",False
+Nayer,32,,R&B,4,"[('R&B', 4), ('Hip-Hop', 4), ('Pop', 3), ('EDM', 2), ('Funk', 1)]",False
+Neeraj Shridhar,19,,Bollywood,2,"[('Bollywood', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1)]",False
+Neka Brown,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Nekfeu,1,,Pop,1,"[('Pop', 1)]",False
+Nektunez,2,,EDM,1,"[('EDM', 1)]",False
+Nelly,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nelly Furtado,1,,EDM,1,"[('EDM', 1)]",False
+Nena,2,,Pop,1,"[('Pop', 1), ('Hip-Hop', 1)]",False
+Nesi,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Netsky,1,,EDM,1,"[('EDM', 1)]",False
+New Boyz,13,,Hip-Hop,4,"[('Hip-Hop', 4), ('EDM', 1), ('Pop', 1), ('R&B', 1), ('Latin Pop', 1)]",False
+New Kids on the Block,17,,Pop,5,"[('Pop', 5), ('Dance', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+New Order,2,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Ne‐Yo,53,,Pop,5,"[('Pop', 5), ('R&B', 5), ('Hip-Hop', 4), ('EDM', 2), ('Funk', 1)]",False
+Nia,5,,,0,[],False
+Niall Horan,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Nick Brewer,2,,Pop,1,"[('Pop', 1)]",False
+Nick Cannon,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nick Dungo,1,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+Nick Jonas,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Nick Mason,4,,Pop,1,"[('Pop', 1)]",False
+Nick Serra,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Nickelus F,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Nicki Minaj,83,Hip-Hop,Pop,12,"[('Pop', 12), ('R&B', 9), ('Hip-Hop', 6), ('EDM', 2), ('Dance', 2)]",True
+Nicky Jam,43,,Reggaeton,7,"[('Reggaeton', 7), ('Latin Trap', 2), ('Latin Pop', 2), ('EDM', 2), ('Hip-Hop', 1)]",False
+Nicky Romero,12,,Pop,2,"[('Pop', 2), ('EDM', 2), ('R&B', 1)]",False
+Nico & Vinz,4,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Nico de Andrea,2,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Nicola Fasano,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nicole Scherzinger,9,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 1), ('R&B', 1), ('EDM', 1), ('Latin Pop', 1)]",False
+Nightcrawlers,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nightmare Boy,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Nikki Grier,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Nile Rodgers,22,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1), ('Pop', 1), ('Dance', 1)]",False
+Niles Mason,2,,EDM,1,"[('EDM', 1)]",False
+Nina Sky,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nino Blu,2,,,0,[],False
+Nino Freestyle,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nio García,8,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Nipsey Hussle,8,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Pop Rock', 1)]",False
+Niqel Nut,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Nirvana,1,,EDM,1,"[('EDM', 1)]",False
+Nitty Scott,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Niña Pastori,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Noel Gallagher,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Noelle Scaggs,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Noriega,4,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Noriel,28,,Reggaeton,4,"[('Reggaeton', 4), ('Latin Trap', 2)]",False
+Normani,8,,R&B,2,"[('R&B', 2), ('Pop', 2), ('EDM', 1), ('Dance', 1), ('Hip-Hop', 1)]",False
+North West,5,,,0,[],False
+Nosaj Thing,4,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 1)]",False
+Notch,6,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Nova & Jory,6,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Novadune,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Novel,1,,EDM,1,"[('EDM', 1)]",False
+Nu Jerzey Devil,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Nucci Reyo,3,,,0,[],False
+Nusoul,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Nut Da Kidd,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Nyla,2,,Pop,1,"[('Pop', 1)]",False
+O.T. Genasis,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+OB OBrien,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+OG Ron C,7,,R&B,2,"[('R&B', 2), ('Reggaeton', 1), ('Latin Trap', 1), ('Pop', 1), ('Hip-Hop', 1)]",False
+OMAAR,2,,R&B,1,"[('R&B', 1)]",False
+Obie Trice,20,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Offset,19,,Hip-Hop,2,"[('Hip-Hop', 2), ('Reggaeton', 2), ('EDM', 1), ('R&B', 1), ('Latin Trap', 1)]",False
+Old World Disorder,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Olga Tañón,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Oliver Cheatham,10,,EDM,1,"[('EDM', 1)]",False
+Oliver Heldens,10,,EDM,2,"[('EDM', 2), ('Pop', 1), ('R&B', 1)]",False
+Oliver Tree,1,,EDM,1,"[('EDM', 1)]",False
+Olivia,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Olivia Lunny,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Olivier Dion,1,,Pop,1,"[('Pop', 1)]",False
+Olivier Giacomotto,3,,EDM,1,"[('EDM', 1)]",False
+Olly James,2,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Olly Murs,9,,Pop,1,"[('Pop', 1)]",False
+Ol’ Dirty Bastard,2,,R&B,1,"[('R&B', 1)]",False
+Omah Lay,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Omar Courtz,9,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Omarion,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Omega,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Omen,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Omy de Oro,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+OneRepublic,9,Pop Rock,EDM,1,"[('EDM', 1), ('Pop', 1)]",True
+Oneohtrix Point Never,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Onyx,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Oobergeek,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Oobie,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Orchestral Manoeuvres in the Dark,2,,EDM,1,"[('EDM', 1)]",False
+Osbe Chill,1,,,0,[],False
+Osmani García,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Otis Redding,2,,,0,[],False
+Otto Knows,9,,Pop,1,"[('Pop', 1), ('EDM', 1), ('Pop Rock', 1)]",False
+Our Last Night,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+OutKast,10,,R&B,3,"[('R&B', 3), ('Hip-Hop', 2), ('Pop', 1), ('Funk', 1)]",False
+Outlawz,3,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Outsidaz,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+OverDoz.,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ovy on the Drums,7,,Reggaeton,3,"[('Reggaeton', 3)]",False
+Ozuna,41,Reggaeton,Reggaeton,6,"[('Reggaeton', 6), ('Latin Trap', 2), ('R&B', 2), ('EDM', 2), ('Latin Pop', 1)]",True
+P Money,1,,Pop,1,"[('Pop', 1)]",False
+P!nk,9,,Hip-Hop,1,"[('Hip-Hop', 1), ('EDM', 1), ('Pop', 1)]",False
+PAGE,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+PARTYNEXTDOOR,16,,R&B,3,"[('R&B', 3), ('Reggaeton', 1), ('Latin Trap', 1), ('Pop', 1), ('EDM', 1)]",False
+PHRESHER,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+PJ Morton,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+PJ Sin Suela,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+PLAYB4CK,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+PNAU,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+PSY,1,,Pop,1,"[('Pop', 1)]",False
+Pablo Alborán,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Pablo Chill‐E,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Pablo López,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Pac Div,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Pacewon,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Pacha All Star Remix Team,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Pacheko,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Pacho el Antifeka,7,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Page,8,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Panjabi MC,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Papatinho,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Papayo,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Papoose,5,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1)]",False
+Paradiso Girls,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Pardison Fontaine,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Parish Wintersmith,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Parliament,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Parov Stelar,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Parralox,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Pasabordo,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Pashanim,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Passenger,1,,Pop,1,"[('Pop', 1)]",False
+Pat Monahan,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Patti LaBelle,3,,,0,[],False
+Paul Chambers,2,,EDM,1,"[('EDM', 1)]",False
+Paul McCartney,10,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Paul Nice,1,,,0,[],False
+Paul Rosenberg,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Paul Wall,31,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1)]",False
+Paul van Dyk,2,,EDM,1,"[('EDM', 1)]",False
+Paula Fernandes,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Paulina Rubio,44,,Latin Pop,2,"[('Latin Pop', 2), ('Hip-Hop', 1)]",False
+Paulo Londra,2,,Pop,1,"[('Pop', 1)]",False
+Payroll Giovanni,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Pedro Aznar,4,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Pedro Capó,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1)]",False
+PeeWee,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Pegboard Nerds,2,,,0,[],False
+Peggy Gou,3,,EDM,1,"[('EDM', 1)]",False
+Penguin Prison,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Pepe Quintana,5,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Perajok,1,,,0,[],False
+Peso Pluma,3,Regional Mexican,,0,[],True
+Pete Davidson,3,,Pop,1,"[('Pop', 1), ('Country', 1), ('Hip-Hop', 1)]",False
+Pete Rock,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Pete Tong,5,,EDM,2,"[('EDM', 2), ('Pop', 1)]",False
+Peter Bjorn and John,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Peter Gunz,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Peter Manjarrés,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Petey Pablo,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Petrona Martínez,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Peysoh,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Pezet,3,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Pharcity,2,,,0,[],False
+Pharoahe Monch,12,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Pharrell Williams,32,,Pop,6,"[('Pop', 6), ('R&B', 4), ('Hip-Hop', 3), ('Funk', 1), ('Latin Pop', 1)]",False
+Phats & Small,10,,EDM,1,"[('EDM', 1)]",False
+Philip Lawrence,3,,Pop,2,"[('Pop', 2), ('Soul', 1), ('R&B', 1), ('Funk', 1)]",False
+Phoebe Bridgers,2,,Pop,1,"[('Pop', 1), ('Country', 1), ('R&B', 1)]",False
+Phoebe Ryan,8,,Pop,5,"[('Pop', 5), ('R&B', 2), ('Funk', 1), ('EDM', 1), ('Dance', 1)]",False
+Phonat,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Piccalo,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Pierre de Maere,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Pilot,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Pim,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Pimp C,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Pink Sweat$,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+PinkPantheress,3,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Pirate Soundsystem,2,,EDM,1,"[('EDM', 1)]",False
+Pitbull,565,"Latin Pop, Hip-Hop",Pop,16,"[('Pop', 16), ('R&B', 7), ('Reggaeton', 5), ('Hip-Hop', 4), ('EDM', 3)]",True
+Pixie Lott,9,,Pop,1,"[('Pop', 1)]",False
+Plan B,5,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1), ('Pop', 1)]",False
+Planet Asia,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Planet VI,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Playboi Carti,23,Hip-Hop,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 2), ('Pop', 2), ('Alternative Pop', 1)]",True
+Playboy Tre,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Play‐N‐Skillz,13,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Please Don’t Destroy,2,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Plies,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+PnB Rock,16,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Pobvio,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Poeta Callejero,9,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Polimá WestCoast,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Polo G,6,,Reggaeton,1,"[('Reggaeton', 1), ('Hip-Hop', 1)]",False
+Pomme,5,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Poo Bear,5,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Reggaeton', 1)]",False
+Pop Smoke,4,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Popcaan,3,,Pop Rock,1,"[('Pop Rock', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Poppa LQ,3,,,0,[],False
+Porn Kings,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Post Malone,14,"Hip-Hop, Pop",R&B,5,"[('R&B', 5), ('Pop', 3), ('Country', 1), ('Reggaeton', 1), ('Hip-Hop', 1)]",True
+Potter Payper,1,,Pop,1,"[('Pop', 1)]",False
+Prakriti Kakar,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Preme,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Pretty Ricky,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Primal Scream,1,,EDM,1,"[('EDM', 1)]",False
+Primetyme,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Prince Fatty,1,,,0,[],False
+Prince Royce,8,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Pop', 2), ('Latin Trap', 1), ('Hip-Hop', 1)]",False
+Princess Superstar,3,,EDM,1,"[('EDM', 1), ('Alternative Pop', 1)]",False
+Prinz Pi,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Pritam,6,Bollywood,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",True
+Privaledge,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Priyanka Chopra,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+ProVerb,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Project Pat,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Projota,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Promatic,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Proof,11,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Prophecy,2,,EDM,1,"[('EDM', 1)]",False
+Proxy,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Psirico,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Punch,14,,R&B,1,"[('R&B', 1), ('Hip-Hop', 1)]",False
+Punchline,6,,R&B,1,"[('R&B', 1), ('Hip-Hop', 1)]",False
+Punkie Johnson,4,,R&B,1,"[('R&B', 1)]",False
+Puppah Nas‐T,4,,EDM,1,"[('EDM', 1)]",False
+Pusha T,49,,Hip-Hop,4,"[('Hip-Hop', 4), ('Latin Pop', 1), ('EDM', 1)]",False
+Pusho,16,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1)]",False
+Q-Da Kid,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Quadron,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Quavo,35,,Hip-Hop,4,"[('Hip-Hop', 4), ('Reggaeton', 3), ('R&B', 3), ('Pop', 2), ('Latin Trap', 1)]",False
+Quebonafide,12,,Pop,4,"[('Pop', 4), ('R&B', 4), ('EDM', 1)]",False
+Queen,2,Rock,Pop,1,"[('Pop', 1), ('Dance', 1)]",True
+Queen YoNasDa,3,,,0,[],False
+Quevedo,5,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1), ('Pop', 1)]",False
+Quintino,13,,EDM,2,"[('EDM', 2)]",False
+Químico Ultra Mega,11,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Qwote,12,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Q‐Tip,15,,Hip-Hop,3,"[('Hip-Hop', 3)]",False
+Q‐Unique,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+R. Kelly,19,,Hip-Hop,4,"[('Hip-Hop', 4), ('Pop', 3), ('R&B', 3), ('Funk', 1), ('Latin Pop', 1)]",False
+R.J.,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+R.O.C.,1,,,0,[],False
+R3B3L General,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+R3HAB,8,,EDM,2,"[('EDM', 2), ('Pop', 1), ('R&B', 1)]",False
+R3WIRE,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+RAYE,10,"Pop, R&B",Pop,2,"[('Pop', 2), ('Dance', 1), ('EDM', 1), ('R&B', 1)]",True
+RBX,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+REI AMI,5,,EDM,1,"[('EDM', 1)]",False
+REZZ,3,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+RIOPY,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+RJ Word,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+ROSALÍA,8,,Reggaeton,4,"[('Reggaeton', 4), ('Pop', 2), ('Latin Trap', 1), ('Alternative', 1), ('R&B', 1)]",False
+ROSÉ,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+RUN FOR COVER,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+RZA,23,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Radio Slave,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Rae Sremmurd,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Pop', 1)]",False
+Raekwon,8,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Rage Against the Machine,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Rag’n’Bone Man,7,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1)]",False
+Raheem DeVaughn,4,,,0,[],False
+Rahul Dev Burman,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+RaiNao,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Raj Ranjodh,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Rakim,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ramin Djawadi,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Ramiro,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Rammstein,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ramones,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ramriddlz,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Ramsey,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Random Impulse,3,,Pop,1,"[('Pop', 1)]",False
+Randy,4,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Raney Shockne,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Ransom,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Rapper Big Pooh,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Rapsody,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Rapture,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Raquel,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Rareform,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ras Kass,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Rascal Flatts,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Raumskaya,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Rauw Alejandro,3,Reggaeton,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1), ('Latin Pop', 1)]",True
+Raw Collection,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ray Dalton,3,,EDM,1,"[('EDM', 1)]",False
+Ray Lavender,3,,Pop,3,"[('Pop', 3), ('R&B', 2), ('Dance', 1)]",False
+Ray Mak,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Raye,2,,EDM,1,"[('EDM', 1)]",False
+Razah,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Really Doe,6,,,0,[],False
+Reazon,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Rebstar Rock City,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Red Café,7,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Red Rat,9,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Red Storm,4,,,0,[],False
+Red Village,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+RedOne,3,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Redd,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Redd Eyezz,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Redfoo,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Redman,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Refresh Money,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Reg Tilsley,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Reik,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Rell,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Remington Glass,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Remy Ma,8,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1)]",False
+Residente,4,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('Latin Pop', 1)]",False
+RetroVision,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Reverend Terry K. Anderson,1,,,0,[],False
+Revol,3,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Reykon,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Rhea,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Rhymefest,7,,,0,[],False
+Rhythm Controll,9,,EDM,1,"[('EDM', 1)]",False
+Rhythms del Mundo,3,,Pop Rock,2,"[('Pop Rock', 2), ('Alternative', 1)]",False
+Ricardo Montaner,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Rich Boy,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Latin Pop', 1)]",False
+Rich Gang,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Rich Homie Quan,6,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Rich the Kid,10,,Hip-Hop,2,"[('Hip-Hop', 2), ('Pop', 1), ('R&B', 1), ('Regional Mexican', 1), ('Latin Pop', 1)]",False
+Richard Ashcroft,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Richard Elen,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Richard Jones,4,,Pop,1,"[('Pop', 1)]",False
+Richie Sosa,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Rick Ross,87,,R&B,7,"[('R&B', 7), ('Pop', 6), ('Hip-Hop', 6), ('Funk', 1), ('Pop Rock', 1)]",False
+Ricky Hil,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Ricky Martin,46,,Latin Pop,2,"[('Latin Pop', 2), ('Reggaeton', 1), ('Latin Trap', 1), ('Hip-Hop', 1)]",False
+Ricky Wilson,9,,Pop,1,"[('Pop', 1)]",False
+Rihanna,220,"Pop, R&B",Hip-Hop,11,"[('Hip-Hop', 11), ('Pop', 9), ('R&B', 6), ('EDM', 2), ('Latin Pop', 2)]",True
+Rina Sawayama,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Riot Games Music Team,5,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Riot Ten,5,,EDM,1,"[('EDM', 1)]",False
+Rita Ora,13,,Pop,3,"[('Pop', 3), ('R&B', 2), ('EDM', 2), ('Hip-Hop', 1)]",False
+Riton,7,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Riva Starr,7,,EDM,1,"[('EDM', 1)]",False
+River,9,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Rob E Rob,2,,,0,[],False
+Rob Grant,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Rob.B,4,,R&B,3,"[('R&B', 3), ('Pop', 2)]",False
+Robbie Mac,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Robbie Rivera,1,,EDM,1,"[('EDM', 1)]",False
+Robbie Williams,15,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1)]",False
+Robert Owens,1,,EDM,1,"[('EDM', 1)]",False
+Robin S,9,,EDM,1,"[('EDM', 1)]",False
+Robin Schulz,4,,EDM,1,"[('EDM', 1)]",False
+Robin Thicke,8,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1), ('Reggaeton', 1), ('R&B', 1)]",False
+Robyn,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Roc Marciano,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Rockie Fresh,1,,Pop,1,"[('Pop', 1)]",False
+Roddy Ricch,6,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Rodney Jerkins,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Roger Troutman,9,,R&B,2,"[('R&B', 2), ('Hip-Hop', 2), ('Pop', 1), ('Funk', 1)]",False
+Roger Waters,4,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Rohff,2,,,0,[],False
+Roland Clark,2,,EDM,1,"[('EDM', 1)]",False
+Rolando Rodriguez,3,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Romeo,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Romeo Santos,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Latin Pop', 1)]",False
+Romy,18,,Pop,2,"[('Pop', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('R&B', 1)]",False
+Romy Dya,3,,EDM,1,"[('EDM', 1)]",False
+Ronald Isley,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Rooga,3,,,0,[],False
+Room 5,10,,EDM,1,"[('EDM', 1)]",False
+Rosario,5,,EDM,1,"[('EDM', 1)]",False
+Roscoe,6,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Roscoe Dash,8,,,0,[],False
+Roscoe Umali,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Rosie Rogers,1,,EDM,1,"[('EDM', 1)]",False
+Roy Ayers,2,,,0,[],False
+Roy Woods,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Royce da 5′9″,42,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Rozalén,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Rozzi,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Rudimental,5,,Pop,1,"[('Pop', 1)]",False
+Rupee,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Ruppent,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Russ,1,,Pop,1,"[('Pop', 1)]",False
+Russell Shaw,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Russian,4,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1), ('Hip-Hop', 1)]",False
+Rvssian,8,,Reggaeton,3,"[('Reggaeton', 3), ('Hip-Hop', 2), ('Latin Trap', 1)]",False
+Ryan Beatty,3,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Ryan Carter,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Ryan Castro,8,,Reggaeton,3,"[('Reggaeton', 3), ('EDM', 1)]",False
+Ryan Leslie,16,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Rock', 1), ('Hip-Hop', 1)]",False
+Ryan Tedder,11,,EDM,1,"[('EDM', 1), ('Pop', 1), ('Pop Rock', 1)]",False
+Rye Rye,3,,R&B,2,"[('R&B', 2), ('Pop', 1)]",False
+Ryland James,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Rytikal,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+S Tha Mogul,1,,,0,[],False
+S. Mos,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+S3an J4Y,2,,EDM,1,"[('EDM', 1)]",False
+SAINt JHN,5,,R&B,1,"[('R&B', 1), ('Reggaeton', 1)]",False
+SBTRKT,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+SHXT,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1)]",False
+SKAM2?,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+SKC,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+SLAVA MARLOW,2,,Pop,1,"[('Pop', 1)]",False
+SOHN,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+SOPHIE,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+SORANA,1,,EDM,1,"[('EDM', 1)]",False
+STALONE,1,,,0,[],False
+STEREOLiEZ,3,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+SUNMI,2,,Pop,1,"[('Pop', 1)]",False
+SWACQ,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+SWV,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+SYML,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+SZA,71,R&B,Hip-Hop,8,"[('Hip-Hop', 8), ('R&B', 7), ('Pop', 7), ('EDM', 1), ('Pop Rock', 1)]",True
+SaberZ,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Sabrina Carpenter,2,Pop,Pop,2,"[('Pop', 2), ('Country', 1)]",True
+Sabrina Claudio,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Sachet Tandon,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Sada Baby,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sade,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sage the Gemini,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Saiko,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Sak Noel,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sal Houdini,2,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1), ('Pop', 1)]",False
+Salvi,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sam Bush,5,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Sam Carter,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Sam Dew,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sam Jones,7,,EDM,1,"[('EDM', 1)]",False
+Sam Martin,5,,EDM,1,"[('EDM', 1), ('R&B', 1)]",False
+Sam Ryder,2,,EDM,1,"[('EDM', 1)]",False
+Sam Smith,12,"Pop, Soul",EDM,2,"[('EDM', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1)]",True
+Sam Sparro,2,,EDM,1,"[('EDM', 1)]",False
+Samantha Jade,3,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Samantha Stevens,2,,,0,[],False
+Sameer,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1)]",False
+Sami Brielle,5,,EDM,1,"[('EDM', 1)]",False
+Sammie,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sammy Adams,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Sampha,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Sandro Silva,6,,EDM,1,"[('EDM', 1)]",False
+Santana,2,,Latin Pop,2,"[('Latin Pop', 2), ('Hip-Hop', 1)]",False
+Santhosh Narayanan,3,,Pop,1,"[('Pop', 1)]",False
+Santigold,8,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1), ('R&B', 1)]",False
+Sarah McLachlan,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Sarah Squirm Sherman,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Sasha Piqué Mebarak,2,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Saukrates,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Saul Williams,2,,,0,[],False
+Savage,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Savannah,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Saweetie,3,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+ScHoolboy Q,18,,R&B,3,"[('R&B', 3), ('Hip-Hop', 2), ('Pop', 1), ('EDM', 1)]",False
+Scape,2,,,0,[],False
+Scarface,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Scenario Rock,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Scissor Sisters,1,,EDM,1,"[('EDM', 1)]",False
+Scoe,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Scott Helman,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Scratch,2,,,0,[],False
+Scribble1k,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Scrufizzer,2,,Pop,1,"[('Pop', 1)]",False
+Sd Laika,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Seamus Haji,10,,EDM,1,"[('EDM', 1)]",False
+Sean G,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Sean Garrett,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Sean Kingston,12,,Pop,4,"[('Pop', 4), ('R&B', 4), ('Hip-Hop', 3), ('Dance', 1), ('EDM', 1)]",False
+Sean Leon,1,,,0,[],False
+Sean Ono Lennon,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Sean P,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sean Paul,44,Dancehall,Pop,5,"[('Pop', 5), ('Dance', 2), ('EDM', 2), ('R&B', 2), ('Latin Pop', 1)]",True
+Sebastian Ingrosso,19,,Pop,2,"[('Pop', 2), ('Pop Rock', 2), ('R&B', 1), ('Funk', 1), ('Alternative', 1)]",False
+Sech,16,,Reggaeton,6,"[('Reggaeton', 6), ('Latin Trap', 1), ('EDM', 1)]",False
+Seiho,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Selena Gomez,4,,Reggaeton,1,"[('Reggaeton', 1), ('Pop Rock', 1), ('Alternative', 1)]",False
+Selena Serrano,9,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sen City,3,,,0,[],False
+Sensato,9,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Serena Ryder,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Sergio Luis Rodríguez,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Serko Fu,1,,,0,[],False
+Seth Hills,2,,EDM,1,"[('EDM', 1)]",False
+Sevenn,4,,Pop,1,"[('Pop', 1), ('Dance', 1), ('EDM', 1)]",False
+Sexion d’Assaut,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Sexyy Red,5,,R&B,4,"[('R&B', 4), ('Pop', 2), ('Funk', 1), ('Hip-Hop', 1), ('Pop Rock', 1)]",False
+Sfera Ebbasta,6,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Shabaam Sahdeeq,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Shaboozey,1,,EDM,1,"[('EDM', 1)]",False
+Shaggy,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Shahlo Ahmedova,1,,EDM,1,"[('EDM', 1)]",False
+Shakira,151,Latin Pop,Reggaeton,5,"[('Reggaeton', 5), ('Pop', 5), ('Hip-Hop', 3), ('R&B', 3), ('EDM', 1)]",True
+Shako el SH,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Shalonda,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Shanell,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Shannell,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Shaquellé,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Sharam,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Sharon D. Clarke,5,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Shawn Chrys,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Shawn Hook,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Shawn Mendes,2,Pop,Pop,2,"[('Pop', 2), ('R&B', 1), ('Country', 1)]",True
+Shawnna,3,,,0,[],False
+Sheck Wes,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Sheek Louch,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Shenseea,7,,Pop,1,"[('Pop', 1), ('EDM', 1), ('Hip-Hop', 1)]",False
+ShezAr,4,,Pop,1,"[('Pop', 1)]",False
+Shilpa Rao,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Shirin David,4,,Hip-Hop,3,"[('Hip-Hop', 3)]",False
+Shiz University Choir,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Shontelle,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Shootter Ledo,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Short Dawg,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Shorty,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Shouse,1,,EDM,1,"[('EDM', 1)]",False
+Showtek,11,,R&B,2,"[('R&B', 2), ('Pop', 1), ('EDM', 1), ('Hip-Hop', 1)]",False
+Shwayze,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Shyan Selah,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Shyne,3,,R&B,1,"[('R&B', 1)]",False
+SiR,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sia,41,Pop,Pop,6,"[('Pop', 6), ('R&B', 4), ('Hip-Hop', 3), ('EDM', 2), ('Funk', 1)]",True
+Sick Jacken,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sidney Samson,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Siete7x,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Sigala,30,,Pop,3,"[('Pop', 3), ('EDM', 2), ('R&B', 1)]",False
+Sigma,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Silk City,3,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Silla,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Silver Medallion,4,,R&B,2,"[('R&B', 2), ('Pop Rock', 1), ('Alternative', 1), ('Hip-Hop', 1), ('Pop', 1)]",False
+Silvestre Dangond,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Simina Grigoriu,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Sinful,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Siren,2,,,0,[],False
+Sister Nancy,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Six-2,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sixto Rein,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Sizzla,2,,R&B,2,"[('R&B', 2), ('Pop', 1), ('Hip-Hop', 1)]",False
+Skeme,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Skepta,6,,R&B,2,"[('R&B', 2), ('Hip-Hop', 2), ('Pop', 1), ('Reggaeton', 1)]",False
+Skewby,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Ski,4,,EDM,1,"[('EDM', 1)]",False
+Ski Mask the Slump God,3,,,0,[],False
+Skidka,3,,EDM,1,"[('EDM', 1)]",False
+Skinhead Rob,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Skipper,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Skitzofrenix,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Skrillex,17,,Hip-Hop,4,"[('Hip-Hop', 4), ('Pop', 2), ('R&B', 2), ('Reggaeton', 1)]",False
+Sky,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Sky Blu,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Sky Monroe,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sky Rompiendo,6,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Skylar Grey,7,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1)]",False
+Skyzoo,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Slakah the Beatchild,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Slash,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Slaughter House,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Slaughterhouse,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sleepy Tom,12,,EDM,1,"[('EDM', 1)]",False
+Slick Pulla,2,,,0,[],False
+Slim,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Slim Thug,29,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1), ('R&B', 1)]",False
+Slim the Mobster,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Slique,5,,,0,[],False
+Slum Village,2,,,0,[],False
+Sly & the Family Stone,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Sly Polaroid,3,,,0,[],False
+Sly Pyper,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Smiler,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Smiley,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Smitty,12,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Smoke & Numbers,1,,,0,[],False
+Smoke DZA,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Smokepurpp,1,,,0,[],False
+Snap!,6,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1), ('Dancehall', 1)]",False
+Sneaky Sound System,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Snoop Dogg,95,,Hip-Hop,8,"[('Hip-Hop', 8), ('Pop', 6), ('R&B', 4), ('EDM', 2), ('Funk', 1)]",False
+Snoop Lion,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Snow Patrol,1,,Pop,1,"[('Pop', 1)]",False
+Snowd4y,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Social House,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Sofi Tukker,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Sofia Carson,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Sofla Kingz,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sofía Reyes,11,,EDM,1,"[('EDM', 1)]",False
+Solange,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sonic Acoustics,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sonny Fodera,2,,Pop,1,"[('Pop', 1)]",False
+Sonny Wilson,3,,EDM,1,"[('EDM', 1)]",False
+Sophia del Carmen,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Sophie Ellis‐Bextor,4,,Pop,1,"[('Pop', 1), ('Alternative Pop', 1), ('EDM', 1)]",False
+Sophie Stern,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Soprano,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sore Losers,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sosa Geek,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Sou el Flotador,6,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Soul II Soul,1,,Pop,1,"[('Pop', 1)]",False
+Soulero,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Soulja Boy,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1), ('R&B', 1)]",False
+Soulsearcher,1,,EDM,1,"[('EDM', 1)]",False
+Soundz,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Space Cowboy,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Speed Radio,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Spektrum,5,,EDM,1,"[('EDM', 1)]",False
+Spice Girls,17,,Pop,5,"[('Pop', 5), ('Dance', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Spiff TV,3,,Latin Trap,2,"[('Latin Trap', 2), ('Reggaeton', 1), ('Hip-Hop', 1)]",False
+Spike Rebel,5,,,0,[],False
+Spirit,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Spooky,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+St. Lunatics,1,,,0,[],False
+Stacks,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Stacy Mier,2,,R&B,1,"[('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Stakker,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Stalley,5,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Star.One,1,,Pop,1,"[('Pop', 1)]",False
+StarGate,5,,EDM,1,"[('EDM', 1)]",False
+Stardust,10,,EDM,1,"[('EDM', 1)]",False
+Starjack,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Starley,24,,Pop,2,"[('Pop', 2), ('Dance', 1), ('Dancehall', 1)]",False
+Stat Quo,10,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1)]",False
+Static Major,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Stefflon Don,9,,EDM,2,"[('EDM', 2), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Stein,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Stephan M.,5,,EDM,1,"[('EDM', 1)]",False
+Stephen Marley,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Stephen Oaks,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Stephen Sanchez,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Stephen Schwartz,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Steps,17,,Pop,5,"[('Pop', 5), ('Dance', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Stereo MC’s,1,,EDM,1,"[('EDM', 1)]",False
+Steve Angello,15,,EDM,2,"[('EDM', 2), ('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Steve Aoki,43,,Pop,3,"[('Pop', 3), ('Dance', 1), ('Dancehall', 1), ('R&B', 1), ('EDM', 1)]",False
+Steve B,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Steve Forest,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Steve Porter,6,,R&B,3,"[('R&B', 3), ('Pop', 2), ('Hip-Hop', 2)]",False
+Steve Vai,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Steven A. Clark,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Stevie B,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Stevie Nicks,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative Pop', 1)]",False
+Stevie Wonder,12,,R&B,4,"[('R&B', 4), ('Pop', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('Pop Rock', 1)]",False
+Sticky Fingas,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sticky Fingaz,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Stige,2,,,0,[],False
+Sting,9,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Pop Rock', 1)]",False
+Stormzy,5,,Reggaeton,1,"[('Reggaeton', 1), ('Pop', 1)]",False
+Stretch Armstrong,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Strike,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Stromae,9,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Sturge,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Stush,3,,EDM,1,"[('EDM', 1)]",False
+Styles P,37,,Hip-Hop,5,"[('Hip-Hop', 5), ('Latin Pop', 1)]",False
+Sugababes,17,,Pop,5,"[('Pop', 5), ('Dance', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Sugarland,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Sukriti Kakar,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Summer Walker,6,,R&B,3,"[('R&B', 3), ('Hip-Hop', 2), ('Pop', 1)]",False
+Sunday Service Choir,8,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Sushant KC,1,,EDM,1,"[('EDM', 1)]",False
+Suzanna Son,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Suzanne Vega,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sven Väth,2,,EDM,1,"[('EDM', 1)]",False
+Swae Lee,25,,Hip-Hop,3,"[('Hip-Hop', 3), ('EDM', 2), ('R&B', 2), ('Pop', 1), ('Reggaeton', 1)]",False
+Swanky Tunes,6,,EDM,1,"[('EDM', 1)]",False
+Sway & King Tech,13,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Sway Dasafo,3,,Pop,1,"[('Pop', 1)]",False
+Swedish House Mafia,11,,Pop,4,"[('Pop', 4), ('Dance', 2), ('R&B', 2), ('EDM', 1), ('Pop Rock', 1)]",False
+Sweetie Irie,5,,Pop,1,"[('Pop', 1), ('Dance', 1), ('EDM', 1)]",False
+Swifty,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Swifty McVay,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Swizz Beatz,20,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 2), ('Pop', 1)]",False
+Sydney Quiseng,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Syed Fardeen,2,,EDM,2,"[('EDM', 2)]",False
+Syko el Terror,6,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Syleena Johnson,2,,,0,[],False
+Sylwia Dynek,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Sztoss,4,,Pop,2,"[('Pop', 2), ('R&B', 2)]",False
+T. Mills,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+T. Nate,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+T.I.,59,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 4), ('Pop', 3), ('Latin Pop', 1), ('Dance', 1)]",False
+T.O.K.,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+TAEYANG,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+TAG,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+TCTS,2,,EDM,1,"[('EDM', 1)]",False
+TERIYAKI BOYZ,2,,,0,[],False
+THE CARTERS,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+TINI,5,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+TJR,8,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1), ('Reggaeton', 1)]",False
+TKZee,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+TLC,1,,Pop,1,"[('Pop', 1)]",False
+TVBOO,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+TWICE,5,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Taboo,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Tainy,11,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 2), ('Pop', 1), ('Dance', 1), ('Pop Rock', 1)]",False
+Taio Cruz,30,,Pop,5,"[('Pop', 5), ('Hip-Hop', 2), ('R&B', 2), ('Latin Pop', 1), ('Dance', 1)]",False
+Take That,40,,Pop,6,"[('Pop', 6), ('Hip-Hop', 1), ('Dance', 1), ('Dancehall', 1), ('R&B', 1)]",False
+Takeoff,6,,EDM,1,"[('EDM', 1)]",False
+Talib Kweli,21,,Hip-Hop,3,"[('Hip-Hop', 3)]",False
+Tame Impala,4,Psychedelic Rock,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Pop', 1)]",True
+Tanishk Bagchi,19,,Bollywood,2,"[('Bollywood', 2), ('Latin Pop', 1), ('Hip-Hop', 1), ('Pop', 1)]",False
+Tank,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Tanna Leone,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Tanya Morgan,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Tapemasters Inc.,1,,,0,[],False
+Tara McDonald,2,,EDM,1,"[('EDM', 1)]",False
+Tasan,4,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Taylor Swift,75,"Pop, Country",Pop,9,"[('Pop', 9), ('Hip-Hop', 3), ('EDM', 2), ('Alternative Pop', 1), ('R&B', 1)]",True
+Taylour Paige,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Tchami,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Tdot Illdude,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Teairra Marí,2,,,0,[],False
+Team Pitbull,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Team TNT,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Tech N9ne,18,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Teddy Swims,2,,EDM,1,"[('EDM', 1)]",False
+Tee Grizzley,10,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Teedra Moses,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Teefa,1,,,0,[],False
+Teezo Touchdown,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Tegan and Sara,2,,EDM,1,"[('EDM', 1)]",False
+Tego,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Tego Calderón,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Tempo,5,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Tems,4,,R&B,2,"[('R&B', 2), ('Hip-Hop', 2), ('Pop', 1)]",False
+Ten Towns,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Tenashar,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Tera,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Termanology,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Termonlogy,2,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Terrace Martin,8,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Terror Fabulous,2,,R&B,2,"[('R&B', 2), ('Pop', 1), ('Hip-Hop', 1)]",False
+Terror Squad,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Terry Cox,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Teyana Taylor,22,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Thai Viet G,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Thailand,1,,EDM,1,"[('EDM', 1)]",False
+Thalía,52,,Latin Pop,1,"[('Latin Pop', 1), ('EDM', 1)]",False
+The 1975,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Alchemist,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Anonymous,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Avener,2,,Alternative Pop,1,"[('Alternative Pop', 1), ('R&B', 1), ('Pop', 1)]",False
+The Band Perry,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Beatles,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Blessed Madonna,7,,Pop,3,"[('Pop', 3), ('Dance', 1), ('R&B', 1)]",False
+The Bloody Beetroots,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Boys Choir of Harlem,3,,,0,[],False
+The Bucketheads,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+The Bumblebeez,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+The Cataracs,16,,Hip-Hop,5,"[('Hip-Hop', 5), ('EDM', 1), ('Pop', 1), ('R&B', 1), ('Latin Pop', 1)]",False
+The Chainsmokers,11,"EDM, Pop",Pop,5,"[('Pop', 5), ('R&B', 2), ('Funk', 1), ('Dance', 1), ('Country', 1)]",True
+The Chemical Brothers,20,,EDM,2,"[('EDM', 2), ('Pop', 1), ('R&B', 1)]",False
+The Chicks,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+The Civil Wars,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+The Command Sisters,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Cool Kids,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+The Cut Up Boys,3,,EDM,1,"[('EDM', 1)]",False
+The Dap‐Kings,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Disciples,1,,EDM,1,"[('EDM', 1)]",False
+The Edge,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Egg,4,,EDM,1,"[('EDM', 1)]",False
+The Funky Bass Brothers,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Game,59,,Hip-Hop,5,"[('Hip-Hop', 5), ('R&B', 2), ('Latin Pop', 1), ('Pop', 1)]",False
+The Gangbang,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+The Glitch Mob,13,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+The Go Getters,1,,,0,[],False
+The Golden Army,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Goodfellas,1,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+The Grouch,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+The Heritage Orchestra,2,,Pop,1,"[('Pop', 1)]",False
+The High & Mighty,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The J.B.’s,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+The Kid Daytona,8,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Kid LAROI,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Killers,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The LOX,8,,,0,[],False
+The Last Poets,2,,,0,[],False
+The Lewisham and Greenwich NHS Choir,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Lifestyle,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+The Lonely Island,17,,Pop,4,"[('Pop', 4), ('R&B', 4), ('Dance', 1), ('Hip-Hop', 1)]",False
+The Madd Rapper,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Marías,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+The Midway State,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+The Mildred Snitzer Orchestra,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Muppets,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+The National,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+The Neptunes,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+The New Royales,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+The Northern Lights,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+The Notorious B.I.G.,26,,Hip-Hop,4,"[('Hip-Hop', 4), ('Latin Pop', 1), ('R&B', 1)]",False
+The Observer,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Paradise,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+The Peoples Republic of Europe,1,,,0,[],False
+The Police,6,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Funk', 1)]",False
+The Prodigy,9,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The PropheC,2,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1), ('Pop', 1)]",False
+The Pussycat Dolls,4,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Dance', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+The Rolling Stones,3,,Pop,3,"[('Pop', 3), ('Dance', 1), ('Country', 1)]",False
+The Roots,3,,Latin Pop,1,"[('Latin Pop', 1), ('Pop', 1), ('R&B', 1)]",False
+The Script,2,,EDM,1,"[('EDM', 1)]",False
+The Secret Sisters,2,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+The Sequel,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Sevenights,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+The Shin Sekaï,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Smiths,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+The Sound Bluntz,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+The Stereotypes,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+The Supermen Lovers,10,,EDM,1,"[('EDM', 1)]",False
+The Temptations,8,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+The Tenors,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Ting Tings,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+The Trammps,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Undertones,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+The Very Best,2,,,0,[],False
+The WAV.s,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+The WRLDFMS Tony Williams,5,,,0,[],False
+The Wanted,10,,R&B,3,"[('R&B', 3), ('Pop', 2), ('Hip-Hop', 2), ('Latin Pop', 1)]",False
+The Weekend,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+The Weeknd,143,"R&B, Pop",Hip-Hop,14,"[('Hip-Hop', 14), ('Pop', 11), ('R&B', 5), ('Reggaeton', 2), ('EDM', 2)]",True
+The White Stripes,2,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+The World Famous Tony Williams,2,,,0,[],False
+The Zombies,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+TheMusicNerdGuy,10,,R&B,3,"[('R&B', 3), ('Hip-Hop', 3), ('Pop', 2)]",False
+TheTrakAddicts,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Themba,2,,EDM,1,"[('EDM', 1)]",False
+Theophilus London,6,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Hip-Hop', 1)]",False
+Theotokosé,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Pop', 1)]",False
+Theron Theron,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+The‐Dream,35,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 3), ('Pop', 3), ('Latin Pop', 1), ('Rock', 1)]",False
+Thirstin Howl III,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Thirty Seconds to Mars,1,,,0,[],False
+Threat,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+Three,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Three 6 Mafia,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Thundercat,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Thurz,1,,,0,[],False
+Thyme,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+TiKA,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Tiara Marie,1,,,0,[],False
+Tim Deluxe,6,,EDM,1,"[('EDM', 1)]",False
+Tim G,4,,,0,[],False
+Tim McGraw,4,,Pop,1,"[('Pop', 1), ('Country', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Timbaland,29,,Hip-Hop,4,"[('Hip-Hop', 4), ('Latin Pop', 2), ('R&B', 2), ('Pop Rock', 2), ('Pop', 2)]",False
+Timmy Trumpet,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Tinashe,7,,R&B,2,"[('R&B', 2), ('EDM', 1), ('Hip-Hop', 1), ('Pop', 1)]",False
+Tinchy Stryder,8,,EDM,2,"[('EDM', 2), ('Pop', 1), ('R&B', 1)]",False
+Tinie Tempah,2,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Tion Wayne,2,,Pop,1,"[('Pop', 1)]",False
+Tiptoe,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Tito “El Bambino”,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Tiwa Savage,5,,EDM,1,"[('EDM', 1)]",False
+Tiësto,29,,Pop,4,"[('Pop', 4), ('EDM', 3), ('Latin Pop', 2), ('Hip-Hop', 2), ('Dance', 2)]",False
+Tobtok,9,,EDM,1,"[('EDM', 1), ('Pop', 1)]",False
+Toby Love,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Tocadisco,3,,EDM,1,"[('EDM', 1)]",False
+Todd Terry,21,,EDM,2,"[('EDM', 2), ('Pop', 1), ('R&B', 1)]",False
+Todos Unidos,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Tokischa,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Tom Enzy,7,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Tom Grennan,1,,EDM,1,"[('EDM', 1)]",False
+Tom Novy,10,,EDM,1,"[('EDM', 1)]",False
+Tom Odell,3,,EDM,1,"[('EDM', 1)]",False
+Tom Staar,6,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('EDM', 1)]",False
+Tom Tom Club,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Tom Walker,1,,Pop,1,"[('Pop', 1)]",False
+Tommy Genesis,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Tommy Torres,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Tommy Trash,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Tones and I,8,,Pop,4,"[('Pop', 4), ('EDM', 1), ('Dance', 1)]",False
+Tony Bennett,2,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Tony Dize,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Tony Touch,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Tony Williams,17,,Pop,2,"[('Pop', 2), ('R&B', 2), ('Rock', 1), ('Hip-Hop', 1)]",False
+Tony Yayo,12,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1)]",False
+Too $hort,3,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Tools,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Topic,11,,Pop,1,"[('Pop', 1), ('Reggaeton', 1), ('Hip-Hop', 1)]",False
+Tori Kelly,4,,Pop,2,"[('Pop', 2), ('R&B', 1)]",False
+Tory Lanez,2,,Pop,2,"[('Pop', 2), ('R&B', 1)]",False
+Toto,2,,Pop,1,"[('Pop', 1)]",False
+Totoy el Frío,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Tove Lo,9,,Pop,5,"[('Pop', 5), ('R&B', 2), ('Funk', 1), ('EDM', 1), ('Dance', 1)]",False
+Towkio,3,,R&B,2,"[('R&B', 2), ('Pop', 1)]",False
+Trace,6,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('EDM', 1)]",False
+Trace Adkins,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Trackademicks,3,,,0,[],False
+Trae,24,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 2), ('Pop', 1)]",False
+Travie,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Travie McCoy,32,,Pop,5,"[('Pop', 5), ('R&B', 4), ('Hip-Hop', 4), ('Funk', 1), ('Latin Pop', 1)]",False
+Travis,1,,,0,[],False
+Travis Barker,8,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Travis Scott,54,Hip-Hop,Hip-Hop,5,"[('Hip-Hop', 5), ('Pop', 4), ('R&B', 4), ('Reggaeton', 2), ('Latin Trap', 1)]",True
+Trazz,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Trevor Daniel,1,,Pop,1,"[('Pop', 1)]",False
+Trey Songz,19,,Hip-Hop,4,"[('Hip-Hop', 4), ('R&B', 4), ('Pop', 2), ('Latin Pop', 1), ('Pop Rock', 1)]",False
+Trick Daddy,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Trick‐Trick,9,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Trillville,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Trina,11,,Pop,1,"[('Pop', 1), ('Dance', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Trinidad James,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1)]",False
+Triomphe,1,,EDM,1,"[('EDM', 1)]",False
+Trippie Redd,3,,EDM,1,"[('EDM', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Trixie Fender,3,,,0,[],False
+Tronicbox,3,,Pop,3,"[('Pop', 3), ('R&B', 2), ('Dance', 1)]",False
+Tropkillaz,3,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Trouble,3,,R&B,2,"[('R&B', 2), ('Hip-Hop', 1), ('Pop', 1)]",False
+Troy'ce Sayles,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+TroyBoi,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Troye Sivan,2,,Pop,2,"[('Pop', 2), ('Dance', 1), ('R&B', 1)]",False
+Trueno,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Trunkie,2,,Pop,1,"[('Pop', 1)]",False
+Truth,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Truth Hurts,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Tujamo,11,,Pop,2,"[('Pop', 2), ('R&B', 2), ('EDM', 1), ('Dancehall', 1)]",False
+Twista,49,,Hip-Hop,3,"[('Hip-Hop', 3), ('Latin Pop', 1), ('Pop', 1), ('Dance', 1), ('R&B', 1)]",False
+Two Door Cinema Club,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Ty,9,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Ty Dolla $ign,71,,Hip-Hop,9,"[('Hip-Hop', 9), ('Pop', 5), ('R&B', 4), ('Latin Pop', 1), ('Regional Mexican', 1)]",False
+Tyga,41,,Hip-Hop,6,"[('Hip-Hop', 6), ('Pop', 4), ('R&B', 4), ('Funk', 1), ('EDM', 1)]",False
+Tyler Shaw,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Tyler Woods,3,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+"Tyler, The Creator",8,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Pop', 1)]",False
+Tyrese,4,,EDM,1,"[('EDM', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+T‐Pain,41,,Pop,4,"[('Pop', 4), ('R&B', 3), ('Hip-Hop', 2), ('Latin Pop', 1), ('Dance', 1)]",False
+U-N-I,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+U2,5,,Hip-Hop,2,"[('Hip-Hop', 2), ('EDM', 1), ('Pop', 1)]",False
+UGK,3,,,0,[],False
+Ultimo,1,,Pop,1,"[('Pop', 1)]",False
+Umek,1,,EDM,1,"[('EDM', 1)]",False
+Ummet Ozcan,1,,EDM,1,"[('EDM', 1)]",False
+Uniting Voices,2,,,0,[],False
+Unorthodox,9,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Upstates,1,,,0,[],False
+Usher,79,R&B,Pop,9,"[('Pop', 9), ('Hip-Hop', 7), ('R&B', 5), ('EDM', 2), ('Latin Pop', 2)]",True
+Vado,8,,,0,[],False
+Vain,1,,,0,[],False
+Valeria,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Vanesa Martín,17,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Vanessa Molina,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Vanessa Williams,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+Vapor Lanes,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Varo,3,,EDM,1,"[('EDM', 1)]",False
+Vassy,7,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1), ('EDM', 1)]",False
+Vato Gonzalez,6,,EDM,1,"[('EDM', 1)]",False
+Vaughn Anthony,2,,,0,[],False
+Vedo-No Shake,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Veggi,4,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Vein,12,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Reggaeton', 1)]",False
+Vengaboys,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Veronica Vega,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Verse Simmonds,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Vespers,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Vianney,1,,Pop,1,"[('Pop', 1)]",False
+Vic Mensa,7,,Pop,2,"[('Pop', 2)]",False
+Victoria Justice,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Victoria Kern,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Victoria Monét,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Victory Boyd,2,,,0,[],False
+Vikina,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Village Boo,7,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Vince Gill,5,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+Vince Staples,4,,Hip-Hop,1,"[('Hip-Hop', 1), ('Pop', 1), ('Alternative', 1)]",False
+Vine Street,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Vini Vici,7,,Reggaeton,2,"[('Reggaeton', 2), ('R&B', 2), ('Latin Trap', 1), ('Hip-Hop', 1), ('Pop', 1)]",False
+Violet Nine,2,,,0,[],False
+Vishal-Shekhar,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Voicians,2,,EDM,1,"[('EDM', 1)]",False
+Vonzell Solomon,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Vortek's,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Vory,3,,,0,[],False
+Voyce,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Voyce Alexander,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Vula,5,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Vybz Kartel,5,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+Víctor Cárdenas,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Víctor Manuelle,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+W&W,7,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1), ('EDM', 1)]",False
+WC,23,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+WESTSIDE BOOGIE,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+WILLOW,1,,R&B,1,"[('R&B', 1)]",False
+Waka Flocka Flame,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Wale,25,,Pop,4,"[('Pop', 4), ('R&B', 3), ('Hip-Hop', 2), ('Dance', 2), ('Reggaeton', 1)]",False
+Walk off the Earth,26,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Wallie the Sensei,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Wally Lopez,2,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Warren G,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Wayne Marshall,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+We Are KING,2,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+We Are Magonia,2,,R&B,1,"[('R&B', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+WeDis,4,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Wes Fif,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 2), ('Pop', 1), ('Funk', 1)]",False
+WestBam,2,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1)]",False
+Westside Gunn,7,,,0,[],False
+Westwood,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Weyes Blood,2,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Wheats,3,,Pop,1,"[('Pop', 1), ('Soul', 1), ('EDM', 1)]",False
+Whethan,1,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+White Boy,5,,,0,[],False
+White Gold,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+White Star,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Who Is Fancy,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Wiley,1,,Pop,1,"[('Pop', 1)]",False
+Wilkins,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Will Ferrell,14,,Pop,3,"[('Pop', 3), ('R&B', 3), ('Dance', 1)]",False
+Will Rees,7,,EDM,1,"[('EDM', 1)]",False
+Will Smith,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Will Sparks,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Willie Joe,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Willy William,8,,Pop,2,"[('Pop', 2), ('Hip-Hop', 2), ('R&B', 1), ('EDM', 1), ('Reggaeton', 1)]",False
+Wisin,19,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1), ('R&B', 1)]",False
+Wisin & Yandel,9,,Reggaeton,3,"[('Reggaeton', 3), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+With You.,2,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+Wiz Khalifa,18,Hip-Hop,R&B,5,"[('R&B', 5), ('Pop', 3), ('Hip-Hop', 3), ('Alternative Pop', 1), ('Funk', 1)]",True
+Wizkid,20,,Pop,3,"[('Pop', 3), ('EDM', 2), ('Hip-Hop', 2), ('R&B', 2), ('Reggaeton', 1)]",False
+Wolfpack,4,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Woodkid,1,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Wooli,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Wretch 32,6,,Pop,1,"[('Pop', 1)]",False
+Wu‐Tang Clan,4,,Hip-Hop,2,"[('Hip-Hop', 2), ('R&B', 1), ('Alternative Pop', 1)]",False
+Wyclef Jean,2,,Latin Pop,2,"[('Latin Pop', 2), ('Hip-Hop', 1)]",False
+Wyman,3,,EDM,1,"[('EDM', 1)]",False
+Wyte Labl,2,,EDM,1,"[('EDM', 1)]",False
+X Ambassadors,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+XV,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+XXXTENTACION,13,,R&B,2,"[('R&B', 2), ('Pop', 1), ('Reggaeton', 1)]",False
+Xamplify,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Xavier Aeon,2,,,0,[],False
+Xonia,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Xzibit,17,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+YEИDRY,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+YG,17,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 2), ('R&B', 2), ('Pop Rock', 1), ('Reggaeton', 1)]",False
+YG Hootie,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+YNW Melly,1,,,0,[],False
+YOVNGCHIMI,4,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+YP,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Ya Boy,6,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Yaga & Mackie,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Yan Kings,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Yandel,17,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Yasiin Bey,21,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Yasmin,4,,Pop,1,"[('Pop', 1)]",False
+Yaviah,1,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Yaw,3,,,0,[],False
+Ye,517,,Pop,15,"[('Pop', 15), ('Hip-Hop', 15), ('R&B', 7), ('Dance', 2), ('Pop Rock', 2)]",False
+Years & Years,9,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+Yeat,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Yebba,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1), ('Pop', 1)]",False
+Yelawolf,14,,Hip-Hop,3,"[('Hip-Hop', 3), ('Pop', 1)]",False
+Ying Yang Twins,20,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Funk', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Yo Gotti,20,,Hip-Hop,2,"[('Hip-Hop', 2), ('Latin Pop', 1)]",False
+Yo Majesty,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Yo Yo Honey Singh,16,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('Bollywood', 1), ('Pop', 1)]",False
+Yomil y El Dany,6,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Yomo,5,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Young Boss,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Young Buc,4,,Hip-Hop,2,"[('Hip-Hop', 2)]",False
+Young Chris,6,,,0,[],False
+Young Edits,2,,,0,[],False
+Young Gunz,2,,,0,[],False
+Young M.A,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Young MC,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Young Miko,4,,Reggaeton,2,"[('Reggaeton', 2), ('Latin Trap', 1)]",False
+Young Money,7,,R&B,2,"[('R&B', 2), ('Hip-Hop', 2), ('Pop', 1)]",False
+Young Noble,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Young Stoner Life,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Young Thoro,4,,Pop,1,"[('Pop', 1), ('Dance', 1)]",False
+Young Thug,34,,Pop,7,"[('Pop', 7), ('Hip-Hop', 5), ('R&B', 5), ('EDM', 1), ('Dance', 1)]",False
+Young Zee,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+YoungBoy Never Broke Again,1,,,0,[],False
+Youngthreat,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Yukmouth,1,,,0,[],False
+Yuksek,19,,EDM,1,"[('EDM', 1), ('Pop', 1), ('R&B', 1)]",False
+Yung Berg,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Yung Lean,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Yuno Miles,3,,,0,[],False
+Yuri,43,,Latin Pop,1,"[('Latin Pop', 1)]",False
+ZAYN,1,,Pop,1,"[('Pop', 1), ('Country', 1)]",False
+ZROQ,3,,EDM,1,"[('EDM', 1)]",False
+ZZ Ward,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+ZZAJÉ,3,,,0,[],False
+Zac Brown,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Zacari,1,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+Zach Sang,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Zahara,16,,Latin Pop,1,"[('Latin Pop', 1)]",False
+Zara Larsson,42,Pop,Pop,3,"[('Pop', 3), ('R&B', 2), ('Dance', 1), ('EDM', 1)]",True
+Zay,1,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Zedd,30,,Pop,4,"[('Pop', 4), ('R&B', 2), ('EDM', 1), ('Dance', 1), ('Dancehall', 1)]",False
+Zelah,2,,EDM,1,"[('EDM', 1)]",False
+Zella Day,2,,Alternative Pop,1,"[('Alternative Pop', 1)]",False
+Zerb,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Ziggy,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+Zion,18,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2)]",False
+Zion & Lennox,23,,Reggaeton,4,"[('Reggaeton', 4), ('Hip-Hop', 2), ('R&B', 2), ('Pop', 2), ('Latin Trap', 1)]",False
+Zion I,3,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+Zutzut,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Z‐Ro,5,,,0,[],False
+[Disney],1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+[theatre],11,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+[unknown],12,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 2), ('Pop', 1)]",False
+anti.negative,1,,R&B,1,"[('R&B', 1)]",False
+apl.de.ap,2,,EDM,1,"[('EDM', 1)]",False
+a‐ha,1,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+bLiNd,4,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1), ('EDM', 1)]",False
+bbyclose,4,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+benny blanco,8,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1), ('Reggaeton', 1), ('Hip-Hop', 1)]",False
+blackbear,1,,Pop Rock,1,"[('Pop Rock', 1)]",False
+boygenius,1,,Pop,1,"[('Pop', 1), ('Alternative', 1)]",False
+cupcakKe,2,,Pop Rock,1,"[('Pop Rock', 1)]",False
+dead prez,1,,Pop Rock,1,"[('Pop Rock', 1), ('Alternative', 1)]",False
+deadmau5,5,,Pop,2,"[('Pop', 2), ('R&B', 1), ('Dance', 1), ('EDM', 1), ('Hip-Hop', 1)]",False
+djSalem,3,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+dvsn,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+ero808,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+etto.,2,,Pop,1,"[('Pop', 1), ('EDM', 1)]",False
+iLe,2,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+iLoveMakonnen,2,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+iZaak,5,,Reggaeton,2,"[('Reggaeton', 2)]",False
+iann dior,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('Reggaeton', 1)]",False
+iiO,3,,EDM,1,"[('EDM', 1)]",False
+jeonghyeon,3,,Pop,1,"[('Pop', 1), ('R&B', 1), ('EDM', 1)]",False
+klav,3,,Hip-Hop,2,"[('Hip-Hop', 2), ('Pop', 1)]",False
+k‐os,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+lil catgirl,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+lil dza,2,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+mgk,3,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+m‐flo,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+reezy,1,,Pop,1,"[('Pop', 1)]",False
+serpentwithfeet,3,,,0,[],False
+teamwork.,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+thasup,5,,Reggaeton,1,"[('Reggaeton', 1)]",False
+toasty digital,30,,Hip-Hop,3,"[('Hip-Hop', 3), ('R&B', 2), ('Pop', 2)]",False
+tofubeats,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+vvsvlogs,3,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+will.i.am,30,,Pop,6,"[('Pop', 6), ('Hip-Hop', 4), ('R&B', 4), ('Latin Pop', 2), ('Dance', 1)]",False
+wolfman1405,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+xxtristanxo,2,,R&B,1,"[('R&B', 1), ('Pop', 1)]",False
+¡MAYDAY!,4,,Hip-Hop,1,"[('Hip-Hop', 1)]",False
+¥$,2,,,0,[],False
+Ñejo,3,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Trap', 1)]",False
+Ñejo & Dálmata,3,,Reggaeton,2,"[('Reggaeton', 2)]",False
+Ñengo Flow,26,,Reggaeton,5,"[('Reggaeton', 5), ('Latin Trap', 2)]",False
+Öwnboss,5,,EDM,1,"[('EDM', 1)]",False
+Ελένη Φουρέιρα,1,,Reggaeton,1,"[('Reggaeton', 1)]",False
+Μιχάλης Τσαουσόπουλος,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+μ's,1,,Hip-Hop,1,"[('Hip-Hop', 1), ('R&B', 1)]",False
+Антитіла,1,,Pop,1,"[('Pop', 1)]",False
+Нюша,3,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+Тарас Тополя,2,,Pop,1,"[('Pop', 1)]",False
+סטטיק ובן-אל תבורי,4,,Reggaeton,1,"[('Reggaeton', 1), ('Latin Pop', 1), ('Hip-Hop', 1)]",False
+أحمد شوقي,2,,Latin Pop,1,"[('Latin Pop', 1), ('Hip-Hop', 1)]",False
+راغب علامة,1,,Latin Pop,1,"[('Latin Pop', 1)]",False
+安室奈美恵,1,,EDM,1,"[('EDM', 1)]",False
+張敬軒,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+杨紫琼,2,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
+葉加瀬太郎,1,,Pop,1,"[('Pop', 1), ('R&B', 1)]",False
