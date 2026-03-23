@@ -1,0 +1,6 @@
+Metric,Spearman_Rho,P_Value,Corrected_P,Significant,Effect_Size
+degree,0.411,0.0,0.0,True,moderate
+strength,0.3176,0.0,0.0,True,weak
+betweenness,0.3896,0.0,0.0,True,weak
+pagerank,0.2758,0.0,0.0,True,weak
+closeness,0.3687,0.0,0.0,True,weak
